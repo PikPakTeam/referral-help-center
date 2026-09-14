@@ -5,7 +5,9 @@ import HomePage from '../pages/HomePage.vue';
 import SearchPage from '../pages/SearchPage.vue';
 
 export const router = createRouter({
-  history: createWebHistory(),
+  // Reuse Vite's public base so direct visits and client-side navigation stay
+  // aligned when the app is deployed under a nested path prefix.
+  history: createWebHistory(import.meta.env.BASE_URL),
   routes: [
     {
       path: '/',

@@ -44,8 +44,11 @@ function submitSearch(value: string) {
 </script>
 
 <template>
-  <main class="docs-layout">
-    <aside class="docs-layout__sidebar">
+  <ElContainer class="docs-layout">
+    <ElAside
+      class="docs-layout__sidebar"
+      width="300px"
+    >
       <RouterLink
         class="docs-layout__brand"
         :to="`/${locale}`"
@@ -61,61 +64,74 @@ function submitSearch(value: string) {
         :current-path="''"
         :items="navItems"
       />
-    </aside>
+    </ElAside>
 
-    <section class="docs-layout__content">
-      <header class="docs-layout__header">
-        <RouterLink
-          class="docs-layout__home"
-          to="/"
-        >
-          All Docs
+    <ElContainer
+      direction="vertical"
+      class="docs-layout__main"
+    >
+      <ElHeader class="docs-layout__header">
+        <RouterLink to="/">
+          <ElButton
+            link
+            class="docs-layout__home"
+            type="primary"
+          >
+            All Docs
+          </ElButton>
         </RouterLink>
         <LanguageSwitcher
           :current-locale="locale"
           :target-routes="switchRoutes"
         />
-      </header>
+      </ElHeader>
 
-      <section class="search-page">
-        <h1>{{ locale === 'zh-CN' ? '搜索结果' : 'Search Results' }}</h1>
-        <p class="search-page__summary">
-          {{
-            query
-              ? `${results.length} result(s) for "${query}"`
-              : locale === 'zh-CN'
-                ? '输入关键词开始搜索'
-                : 'Enter a keyword to search'
-          }}
-        </p>
+      <ElMain class="docs-layout__content">
+        <section class="search-page">
+          <h1>{{ locale === 'zh-CN' ? '搜索结果' : 'Search Results' }}</h1>
+          <p class="search-page__summary">
+            {{
+              query
+                ? `${results.length} result(s) for "${query}"`
+                : locale === 'zh-CN'
+                  ? '输入关键词开始搜索'
+                  : 'Enter a keyword to search'
+            }}
+          </p>
 
-        <ul
-          v-if="results.length"
-          class="search-results"
-        >
-          <li
-            v-for="result in results"
-            :key="result.id"
-            class="search-results__item"
+          <div
+            v-if="results.length"
+            class="search-results"
           >
-            <RouterLink
-              class="search-results__title"
-              :to="result.href"
+            <ElCard
+              v-for="result in results"
+              :key="result.id"
+              class="search-results__item"
+              shadow="hover"
             >
-              {{ result.title }}
-            </RouterLink>
-            <p
-              v-if="result.section"
-              class="search-results__section"
-            >
-              {{ result.section }}
-            </p>
-            <p class="search-results__excerpt">
-              {{ result.excerpt }}
-            </p>
-          </li>
-        </ul>
-      </section>
-    </section>
-  </main>
+              <RouterLink
+                class="search-results__title"
+                :to="result.href"
+              >
+                {{ result.title }}
+              </RouterLink>
+              <p
+                v-if="result.section"
+                class="search-results__section"
+              >
+                {{ result.section }}
+              </p>
+              <p class="search-results__excerpt">
+                {{ result.excerpt }}
+              </p>
+            </ElCard>
+          </div>
+          <ElEmpty
+            v-else-if="query"
+            :description="locale === 'zh-CN' ? '没有找到相关结果' : 'No matching results found'"
+          />
+        </section>
+      </ElMain>
+    </ElContainer>
+  </ElContainer>
 </template>

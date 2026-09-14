@@ -10,6 +10,11 @@ export interface NavItem {
   children: NavItem[];
 }
 
+export interface BreadcrumbItem {
+  title: string;
+  href: string;
+}
+
 export interface DocRecord {
   id: string;
   locale: Locale;
@@ -244,4 +249,61 @@ export function getLocaleRouteFromSegments(locale: Locale, routeRemainder: strin
   const candidate = `/${locale}${suffix}`;
 
   return getDocByRoute(locale, routeRemainder) ? candidate : fallback;
+}
+
+function findNavItem(items: NavItem[], predicate: (item: NavItem) => boolean): NavItem | undefined {
+  for (const item of items) {
+    if (predicate(item)) {
+      return item;
+    }
+
+    const matchedChild = findNavItem(item.children, predicate);
+    if (matchedChild) {
+      return matchedChild;
+    }
+  }
+
+  return undefined;
+}
+
+export function getNavItemByHref(locale: Locale, href: string): NavItem | undefined {
+  return findNavItem(getNav(locale), (item) => item.href === href);
+}
+
+export function getSectionArticles(locale: Locale, routeRemainder: string[]): NavItem[] {
+  const doc = getDocByRoute(locale, routeRemainder);
+  if (!doc?.isSectionHome) {
+    return [];
+  }
+
+  return getNavItemByHref(locale, doc.routePath)?.children ?? [];
+}
+
+export function getBreadcrumbs(locale: Locale, routeRemainder: string[]): BreadcrumbItem[] {
+  if (!routeRemainder.length) {
+    return [];
+  }
+
+  const breadcrumbs: BreadcrumbItem[] = [];
+
+  if (routeRemainder[0]) {
+    const sectionHref = `/${locale}/${routeRemainder[0]}`;
+    const sectionItem = getNavItemByHref(locale, sectionHref);
+    if (sectionItem) {
+      breadcrumbs.push({
+        title: sectionItem.title,
+        href: sectionItem.href,
+      });
+    }
+  }
+
+  const currentDoc = getDocByRoute(locale, routeRemainder);
+  if (currentDoc && !currentDoc.isSectionHome) {
+    breadcrumbs.push({
+      title: currentDoc.title,
+      href: currentDoc.routePath,
+    });
+  }
+
+  return breadcrumbs;
 }

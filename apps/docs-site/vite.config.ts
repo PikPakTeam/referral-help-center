@@ -4,8 +4,10 @@ import vue from '@vitejs/plugin-vue';
 import { defineConfig } from 'vite';
 
 const repoRoot = fileURLToPath(new URL('../../', import.meta.url));
+const appBasePath = '/referral/help-center/';
 
 export default defineConfig({
+  base: appBasePath,
   plugins: [vue()],
   server: {
     fs: {

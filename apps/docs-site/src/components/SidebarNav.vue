@@ -1,9 +1,7 @@
 <script setup lang="ts">
 import type { NavItem } from '../lib/docs';
 
-defineOptions({
-  name: 'SidebarNav',
-});
+import SidebarNavItem from './SidebarNavItem.vue';
 
 defineProps<{
   items: NavItem[];
@@ -12,23 +10,15 @@ defineProps<{
 </script>
 
 <template>
-  <ul class="sidebar-nav">
-    <li
+  <ElMenu
+    :default-active="currentPath"
+    class="sidebar-nav"
+    router
+  >
+    <SidebarNavItem
       v-for="item in items"
       :key="item.href"
-      class="sidebar-nav__item"
-    >
-      <RouterLink
-        :class="['sidebar-nav__link', { 'is-active': currentPath === item.href }]"
-        :to="item.href"
-      >
-        {{ item.title }}
-      </RouterLink>
-      <SidebarNav
-        v-if="item.children.length"
-        :current-path="currentPath"
-        :items="item.children"
-      />
-    </li>
-  </ul>
+      :item="item"
+    />
+  </ElMenu>
 </template>

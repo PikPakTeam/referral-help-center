@@ -2,11 +2,20 @@
 import { computed, ref, watchEffect } from 'vue';
 import { useRoute, useRouter } from 'vue-router';
 
+import ArticleList from '../components/ArticleList.vue';
+import BreadcrumbNav from '../components/BreadcrumbNav.vue';
 import DocOutline from '../components/DocOutline.vue';
 import LanguageSwitcher from '../components/LanguageSwitcher.vue';
 import SearchBox from '../components/SearchBox.vue';
 import SidebarNav from '../components/SidebarNav.vue';
-import { getDocByRoute, getLocaleRouteFromSegments, getNav, type Locale } from '../lib/docs';
+import {
+  getBreadcrumbs,
+  getDocByRoute,
+  getLocaleRouteFromSegments,
+  getNav,
+  getSectionArticles,
+  type Locale,
+} from '../lib/docs';
 
 const props = defineProps<{
   locale: Locale;
@@ -19,6 +28,8 @@ const searchQuery = ref('');
 
 const doc = computed(() => getDocByRoute(props.locale, props.pathMatch));
 const navItems = computed(() => getNav(props.locale));
+const breadcrumbs = computed(() => getBreadcrumbs(props.locale, props.pathMatch));
+const sectionArticles = computed(() => getSectionArticles(props.locale, props.pathMatch));
 const switchRoutes = computed(() => ({
   'zh-CN': getLocaleRouteFromSegments('zh-CN', props.pathMatch),
   'en-US': getLocaleRouteFromSegments('en-US', props.pathMatch),
@@ -26,6 +37,13 @@ const switchRoutes = computed(() => ({
 
 const searchPlaceholder = computed(() =>
   props.locale === 'zh-CN' ? '搜索当前语言文档' : 'Search this locale',
+);
+const searchButtonLabel = computed(() => (props.locale === 'zh-CN' ? '搜索' : 'Search'));
+const sectionListTitle = computed(() => (props.locale === 'zh-CN' ? '本栏文章' : 'Articles in This Section'));
+const sectionListDescription = computed(() =>
+  props.locale === 'zh-CN'
+    ? '继续浏览当前栏目下的常见问题与说明。'
+    : 'Continue browsing the related articles in this section.',
 );
 
 function submitSearch(query: string) {
@@ -54,6 +72,8 @@ function handleContentClick(event: MouseEvent) {
     return;
   }
 
+  // Markdown content is rendered as plain HTML anchors, so internal doc links
+  // need to be handed back to vue-router to keep navigation inside the SPA.
   event.preventDefault();
   router.push(href);
 }
@@ -69,11 +89,14 @@ watchEffect(() => {
 </script>
 
 <template>
-  <main
+  <ElContainer
     v-if="doc"
     class="docs-layout"
   >
-    <aside class="docs-layout__sidebar">
+    <ElAside
+      class="docs-layout__sidebar"
+      width="300px"
+    >
       <RouterLink
         class="docs-layout__brand"
         :to="`/${locale}`"
@@ -82,6 +105,7 @@ watchEffect(() => {
       </RouterLink>
       <SearchBox
         v-model="searchQuery"
+        :button-label="searchButtonLabel"
         :placeholder="searchPlaceholder"
         @submit="submitSearch"
       />
@@ -89,44 +113,54 @@ watchEffect(() => {
         :current-path="route.path"
         :items="navItems"
       />
-    </aside>
+    </ElAside>
 
-    <section class="docs-layout__content">
-      <header class="docs-layout__header">
-        <RouterLink
-          class="docs-layout__home"
-          to="/"
-        >
-          All Docs
-        </RouterLink>
+    <ElContainer
+      direction="vertical"
+      class="docs-layout__main"
+    >
+      <ElHeader class="docs-layout__header">
+        <BreadcrumbNav :items="breadcrumbs" />
         <LanguageSwitcher
           :current-locale="locale"
           :target-routes="switchRoutes"
         />
-      </header>
-      <article
-        class="markdown-body"
-        @click="handleContentClick"
-        v-html="doc.html"
-      />
-    </section>
+      </ElHeader>
+      <ElMain class="docs-layout__content">
+        <article
+          class="markdown-body"
+          @click="handleContentClick"
+          v-html="doc.html"
+        />
+        <ArticleList
+          v-if="doc.isSectionHome"
+          :description="sectionListDescription"
+          :items="sectionArticles"
+          :title="sectionListTitle"
+        />
+      </ElMain>
+    </ElContainer>
 
-    <DocOutline :headings="doc.headings" />
-  </main>
+    <ElAside
+      class="docs-layout__outline"
+      width="260px"
+    >
+      <DocOutline :headings="doc.headings" />
+    </ElAside>
+  </ElContainer>
 
   <main
     v-else
     class="not-found"
   >
-    <div class="not-found__card">
-      <h1>Document not found</h1>
-      <p>The requested document route does not exist in this locale.</p>
-      <RouterLink
-        class="button button--primary"
-        :to="`/${locale}`"
-      >
-        Go to locale home
-      </RouterLink>
-    </div>
+    <ElCard class="not-found__card">
+      <ElEmpty description="Document not found">
+        <RouterLink :to="`/${locale}`">
+          <ElButton type="primary">
+            Go to locale home
+          </ElButton>
+        </RouterLink>
+      </ElEmpty>
+    </ElCard>
   </main>
 </template>

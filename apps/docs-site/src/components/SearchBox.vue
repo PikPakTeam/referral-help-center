@@ -1,9 +1,11 @@
 <script setup lang="ts">
+import { Search } from '@element-plus/icons-vue';
 import { ref, watch } from 'vue';
 
 const props = defineProps<{
   modelValue?: string;
   placeholder?: string;
+  buttonLabel?: string;
 }>();
 
 const emit = defineEmits<{
@@ -34,17 +36,24 @@ function handleSubmit() {
     class="search-box"
     @submit.prevent="handleSubmit"
   >
-    <input
+    <ElInput
       v-model="inputValue"
       :placeholder="placeholder ?? 'Search docs...'"
       class="search-box__input"
-      type="search"
+      size="large"
+      @keyup.enter="handleSubmit"
     >
-    <button
-      class="search-box__button"
-      type="submit"
-    >
-      Search
-    </button>
+      <template #prefix>
+        <ElIcon><Search /></ElIcon>
+      </template>
+      <template #append>
+        <ElButton
+          type="primary"
+          @click="handleSubmit"
+        >
+          {{ buttonLabel ?? 'Search' }}
+        </ElButton>
+      </template>
+    </ElInput>
   </form>
 </template>

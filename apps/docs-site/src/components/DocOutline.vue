@@ -7,7 +7,7 @@ defineProps<{
 </script>
 
 <template>
-  <aside
+  <ElCard
     v-if="headings.length"
     class="doc-outline"
   >
@@ -23,5 +23,5 @@ defineProps<{
         <a :href="`#${heading.id}`">{{ heading.title }}</a>
       </li>
     </ul>
-  </aside>
+  </ElCard>
 </template>
