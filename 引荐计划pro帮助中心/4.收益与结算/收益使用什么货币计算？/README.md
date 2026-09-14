@@ -1,0 +1,11 @@
+# 收益使用什么货币计算？
+
+引荐计划 Pro 中的金额统一以新加坡元（SGD）计算。由于地区及购买渠道不同，用户实际支付金额可能存在差异。
+
+---
+
+## English
+
+### What currency is used to calculate earnings?
+
+All amounts in Referral Program Pro are calculated in Singapore dollars (SGD). The amount users actually pay may vary by region and purchase channel.

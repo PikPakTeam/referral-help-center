@@ -1,0 +1,13 @@
+# 为什么用户购买会员后没有产生相应记录？
+
+可能是因为数据尚未完成更新，或用户在与您建立邀请关系前已经购买会员。只有用户先与您建立有效的邀请关系，之后完成符合规则的会员购买，才会产生相应记录。统计数据将在次日新加坡时间 14:00（UTC+8）前更新，请稍后再次查看。
+
+
+
+---
+
+## English
+
+### Why is there no record after a user purchases Premium?
+
+The data may not have finished updating, or the user may have purchased Premium before establishing a referral relationship with you. A record is generated only when the user first establishes a valid referral relationship with you and then completes an eligible Premium purchase. Statistics will be updated by 2:00 PM Singapore Time (UTC+8) the following day. Please check again later.

@@ -1,0 +1,16 @@
+# 等级变化后，存储超额状态会如何变化？
+
+等级变化后，系统会按照新等级对应的规则重新判断您的存储超额状态。  
+此前累计的超额时间不会重置；等级提升后可以获得新等级对应的权益，等级降低后则会根据累计超额时间重新计算剩余宽限时间，如果已经达到相应等级的处理条件，可能会直接进入宽限期或后续处理阶段。
+
+
+
+---
+
+## English
+
+### What happens to my over-quota storage status when my level changes?
+
+When your level changes, the system reassesses your over-quota storage status using the rules for your new level.
+
+The accumulated over-quota duration is not reset. If your level increases, you receive the benefits for the new level. If your level decreases, the remaining grace period is recalculated based on the accumulated over-quota duration. If you have already reached the applicable threshold, you may enter the grace period or a subsequent processing stage immediately.
