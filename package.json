@@ -1,0 +1,12 @@
+{
+  "name": "pikpak-referral-help-center",
+  "private": true,
+  "version": "0.0.0",
+  "scripts": {
+    "dev": "npm --prefix ./apps/docs-site run dev",
+    "build": "npm --prefix ./apps/docs-site run build",
+    "preview": "npm --prefix ./apps/docs-site run preview",
+    "lint": "npm --prefix ./apps/docs-site run lint",
+    "typecheck": "npm --prefix ./apps/docs-site run typecheck"
+  }
+}
