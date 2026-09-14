@@ -55,8 +55,9 @@ description: "Syncs Lark Wiki/Doc content into local Markdown folders and manife
 
 1. **直接同步**
 2. **覆盖本地已同步目录**
-3. **保留目录结构**
-4. **生成或刷新 `.lark-sync.json` 清单**
+3. **默认同步到 `docs/`**
+4. **保留目录结构**
+5. **生成或刷新 `.trae/cache/docs.lark-sync.json` 清单**
 
 如果用户明确说“先对比不要改文件”，则改为只读比对模式。
 
@@ -66,15 +67,15 @@ description: "Syncs Lark Wiki/Doc content into local Markdown folders and manife
 
 同步结果默认采用：
 
-- 根节点目录：`<文档标题>/`
-- 根节点正文写入根目录 `README.md`
+- 文档根目录固定为：`docs/`
+- 根节点正文写入 `docs/README.md`
 - 一级栏目保留目录，并使用 `栏目目录/README.md` 作为栏目首页
 - 无子节点的叶子页直接写成同级 `文件名.md`
 
 例如：
 
 ```text
-引荐计划pro帮助中心/
+docs/
   README.md
   1.计划概览/
     README.md
@@ -83,7 +84,7 @@ description: "Syncs Lark Wiki/Doc content into local Markdown folders and manife
 
 ### 2. 一级目录命名
 
-如果当前目标目录已经使用了带序号的一级栏目命名，例如：
+如果 `docs/` 下已经使用了带序号的一级栏目命名，例如：
 
 - `1.计划概览`
 - `2.邀请与分享`
@@ -106,9 +107,15 @@ description: "Syncs Lark Wiki/Doc content into local Markdown folders and manife
 
 ### 4. 清单文件
 
-同步后需在根目录生成：
+同步后需在仓库的非文档目录生成：
 
-- `.lark-sync.json`
+- `.trae/cache/docs.lark-sync.json`
+
+这样做的目的是：
+
+- 不把同步元数据暴露给 GitBook 内容根
+- 避免清单文件被误当成文档资源
+- 让发布目录只保留 `README.md`、`SUMMARY.md` 和正文页面
 
 清单至少应包含：
 
@@ -227,7 +234,7 @@ lark-cli docs +fetch --doc "<obj_token>" --as user --doc-format markdown --forma
 
 ### 步骤 6：生成清单
 
-刷新 `.lark-sync.json`，用于记录：
+刷新 `.trae/cache/docs.lark-sync.json`，用于记录：
 
 - 当前同步来源
 - 节点总数
@@ -238,10 +245,10 @@ lark-cli docs +fetch --doc "<obj_token>" --as user --doc-format markdown --forma
 
 同步完成后至少检查：
 
-1. 根目录是否生成
+1. `docs/` 是否生成
 2. 根页和栏目页是否使用 `README.md`
 3. 叶子页是否为直接 `.md` 文件而不是多余目录
-4. `.lark-sync.json` 是否存在且路径正确
+4. `.trae/cache/docs.lark-sync.json` 是否存在且路径正确
 5. 抽样检查 1 到 3 篇正文是否成功落盘
 
 ## 对比模式
@@ -249,7 +256,7 @@ lark-cli docs +fetch --doc "<obj_token>" --as user --doc-format markdown --forma
 如果用户要求“先看差异”，只做以下动作：
 
 1. 读取线上节点树
-2. 读取本地 `.lark-sync.json`
+2. 读取本地 `.trae/cache/docs.lark-sync.json`
 3. 输出以下差异：
    - 本地缺失的节点
    - 线上已删除但本地仍存在的节点
@@ -267,10 +274,10 @@ lark-cli docs +fetch --doc "<obj_token>" --as user --doc-format markdown --forma
 
 - 本次来源是根 Wiki 还是单篇文档
 - 是否使用了 `user` 授权
-- 同步到了哪个本地目录
+- 同步到了哪个本地目录（默认 `docs/`）
 - 共同步多少节点
 - 生成了多少个 `README.md`
-- 是否刷新了 `.lark-sync.json`
+- 是否刷新了 `.trae/cache/docs.lark-sync.json`
 - 如果是对比模式，要明确说明“未写文件”
 
 ## 注意事项
