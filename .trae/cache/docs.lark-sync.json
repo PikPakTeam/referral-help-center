@@ -14,8 +14,12 @@
       "obj_type": "docx",
       "has_child": true,
       "space_id": "7476318980194435103",
-      "path": "docs/README.md",
-      "source_url": "https://ssgo0s8vo0j6.sg.larksuite.com/wiki/R4wVwhplzihjI0kOzk1lO199gvh"
+      "path": "docs/zh-CN/README.md",
+      "source_url": "https://ssgo0s8vo0j6.sg.larksuite.com/wiki/R4wVwhplzihjI0kOzk1lO199gvh",
+      "localized_paths": {
+        "zh-CN": "docs/zh-CN/README.md",
+        "en-US": "docs/en-US/README.md"
+      }
     },
     {
       "title": "计划概览",
@@ -24,8 +28,12 @@
       "obj_type": "docx",
       "has_child": true,
       "space_id": "7476318980194435103",
-      "path": "docs/1.计划概览/README.md",
-      "source_url": "https://ssgo0s8vo0j6.sg.larksuite.com/wiki/JTjlwLi3cim089kNtetld2A1g8g"
+      "path": "docs/zh-CN/1.计划概览/README.md",
+      "source_url": "https://ssgo0s8vo0j6.sg.larksuite.com/wiki/JTjlwLi3cim089kNtetld2A1g8g",
+      "localized_paths": {
+        "zh-CN": "docs/zh-CN/1.计划概览/README.md",
+        "en-US": "docs/en-US/1.计划概览/README.md"
+      }
     },
     {
       "title": "加入引荐计划 Pro 后可以退出吗？",
@@ -34,8 +42,12 @@
       "obj_type": "docx",
       "has_child": false,
       "space_id": "7476318980194435103",
-      "path": "docs/1.计划概览/加入引荐计划 Pro 后可以退出吗？.md",
-      "source_url": "https://ssgo0s8vo0j6.sg.larksuite.com/wiki/XfzPwN0P5iDgdhkN9IJlE6zVgzf"
+      "path": "docs/zh-CN/1.计划概览/加入引荐计划Pro后可以退出吗.md",
+      "source_url": "https://ssgo0s8vo0j6.sg.larksuite.com/wiki/XfzPwN0P5iDgdhkN9IJlE6zVgzf",
+      "localized_paths": {
+        "zh-CN": "docs/zh-CN/1.计划概览/加入引荐计划Pro后可以退出吗.md",
+        "en-US": "docs/en-US/1.计划概览/加入引荐计划Pro后可以退出吗.md"
+      }
     },
     {
       "title": "在哪里查看完整的引荐计划 Pro 规则？",
@@ -44,8 +56,12 @@
       "obj_type": "docx",
       "has_child": false,
       "space_id": "7476318980194435103",
-      "path": "docs/1.计划概览/在哪里查看完整的引荐计划 Pro 规则？.md",
-      "source_url": "https://ssgo0s8vo0j6.sg.larksuite.com/wiki/Dcltwop6Gie5Wvk1SoqlYwXVgEh"
+      "path": "docs/zh-CN/1.计划概览/在哪里查看完整的引荐计划Pro规则.md",
+      "source_url": "https://ssgo0s8vo0j6.sg.larksuite.com/wiki/Dcltwop6Gie5Wvk1SoqlYwXVgEh",
+      "localized_paths": {
+        "zh-CN": "docs/zh-CN/1.计划概览/在哪里查看完整的引荐计划Pro规则.md",
+        "en-US": "docs/en-US/1.计划概览/在哪里查看完整的引荐计划Pro规则.md"
+      }
     },
     {
       "title": "邀请与分享",
@@ -54,8 +70,12 @@
       "obj_type": "docx",
       "has_child": true,
       "space_id": "7476318980194435103",
-      "path": "docs/2.邀请与分享/README.md",
-      "source_url": "https://ssgo0s8vo0j6.sg.larksuite.com/wiki/UWlJwu9hXia9wpkkEY5lbmmtgWg"
+      "path": "docs/zh-CN/2.邀请与分享/README.md",
+      "source_url": "https://ssgo0s8vo0j6.sg.larksuite.com/wiki/UWlJwu9hXia9wpkkEY5lbmmtgWg",
+      "localized_paths": {
+        "zh-CN": "docs/zh-CN/2.邀请与分享/README.md",
+        "en-US": "docs/en-US/2.邀请与分享/README.md"
+      }
     },
     {
       "title": "可以通过哪些方式邀请新用户？",
@@ -64,8 +84,12 @@
       "obj_type": "docx",
       "has_child": false,
       "space_id": "7476318980194435103",
-      "path": "docs/2.邀请与分享/可以通过哪些方式邀请新用户？.md",
-      "source_url": "https://ssgo0s8vo0j6.sg.larksuite.com/wiki/SGQ5wTmioig9WJknDQUlupYsgTf"
+      "path": "docs/zh-CN/2.邀请与分享/可以通过哪些方式邀请新用户.md",
+      "source_url": "https://ssgo0s8vo0j6.sg.larksuite.com/wiki/SGQ5wTmioig9WJknDQUlupYsgTf",
+      "localized_paths": {
+        "zh-CN": "docs/zh-CN/2.邀请与分享/可以通过哪些方式邀请新用户.md",
+        "en-US": "docs/en-US/2.邀请与分享/可以通过哪些方式邀请新用户.md"
+      }
     },
     {
       "title": "怎样才算有效邀请？",
@@ -74,8 +98,12 @@
       "obj_type": "docx",
       "has_child": false,
       "space_id": "7476318980194435103",
-      "path": "docs/2.邀请与分享/怎样才算有效邀请？.md",
-      "source_url": "https://ssgo0s8vo0j6.sg.larksuite.com/wiki/PPHIwIEyiiCWnpkGSMvl9oEFghh"
+      "path": "docs/zh-CN/2.邀请与分享/怎样才算有效邀请.md",
+      "source_url": "https://ssgo0s8vo0j6.sg.larksuite.com/wiki/PPHIwIEyiiCWnpkGSMvl9oEFghh",
+      "localized_paths": {
+        "zh-CN": "docs/zh-CN/2.邀请与分享/怎样才算有效邀请.md",
+        "en-US": "docs/en-US/2.邀请与分享/怎样才算有效邀请.md"
+      }
     },
     {
       "title": "可以把安装包直接发送给新用户吗？",
@@ -84,8 +112,12 @@
       "obj_type": "docx",
       "has_child": false,
       "space_id": "7476318980194435103",
-      "path": "docs/2.邀请与分享/可以把安装包直接发送给新用户吗？.md",
-      "source_url": "https://ssgo0s8vo0j6.sg.larksuite.com/wiki/GeM7wWpDOisS4uk2aLHlKfeIgqe"
+      "path": "docs/zh-CN/2.邀请与分享/可以把安装包直接发送给新用户吗.md",
+      "source_url": "https://ssgo0s8vo0j6.sg.larksuite.com/wiki/GeM7wWpDOisS4uk2aLHlKfeIgqe",
+      "localized_paths": {
+        "zh-CN": "docs/zh-CN/2.邀请与分享/可以把安装包直接发送给新用户吗.md",
+        "en-US": "docs/en-US/2.邀请与分享/可以把安装包直接发送给新用户吗.md"
+      }
     },
     {
       "title": "同一个用户可以被重复计入吗？",
@@ -94,8 +126,12 @@
       "obj_type": "docx",
       "has_child": false,
       "space_id": "7476318980194435103",
-      "path": "docs/2.邀请与分享/同一个用户可以被重复计入吗？.md",
-      "source_url": "https://ssgo0s8vo0j6.sg.larksuite.com/wiki/VyX7wTS5WiWsk5klnEulkwYHgOd"
+      "path": "docs/zh-CN/2.邀请与分享/同一个用户可以被重复计入吗.md",
+      "source_url": "https://ssgo0s8vo0j6.sg.larksuite.com/wiki/VyX7wTS5WiWsk5klnEulkwYHgOd",
+      "localized_paths": {
+        "zh-CN": "docs/zh-CN/2.邀请与分享/同一个用户可以被重复计入吗.md",
+        "en-US": "docs/en-US/2.邀请与分享/同一个用户可以被重复计入吗.md"
+      }
     },
     {
       "title": "新用户注册超过 12 小时后完成操作是否有效？",
@@ -104,8 +140,12 @@
       "obj_type": "docx",
       "has_child": false,
       "space_id": "7476318980194435103",
-      "path": "docs/2.邀请与分享/新用户注册超过 12 小时后完成操作是否有效？.md",
-      "source_url": "https://ssgo0s8vo0j6.sg.larksuite.com/wiki/QTlAw19eGiprn6k0R6dlG3Y2gnh"
+      "path": "docs/zh-CN/2.邀请与分享/新用户注册超过12小时后完成操作是否有效.md",
+      "source_url": "https://ssgo0s8vo0j6.sg.larksuite.com/wiki/QTlAw19eGiprn6k0R6dlG3Y2gnh",
+      "localized_paths": {
+        "zh-CN": "docs/zh-CN/2.邀请与分享/新用户注册超过12小时后完成操作是否有效.md",
+        "en-US": "docs/en-US/2.邀请与分享/新用户注册超过12小时后完成操作是否有效.md"
+      }
     },
     {
       "title": "什么情况下算成功购买会员？",
@@ -114,8 +154,12 @@
       "obj_type": "docx",
       "has_child": false,
       "space_id": "7476318980194435103",
-      "path": "docs/2.邀请与分享/什么情况下算成功购买会员？.md",
-      "source_url": "https://ssgo0s8vo0j6.sg.larksuite.com/wiki/NmzRwSnkCidaQYk4xncl84DTgFc"
+      "path": "docs/zh-CN/2.邀请与分享/什么情况下算成功购买会员.md",
+      "source_url": "https://ssgo0s8vo0j6.sg.larksuite.com/wiki/NmzRwSnkCidaQYk4xncl84DTgFc",
+      "localized_paths": {
+        "zh-CN": "docs/zh-CN/2.邀请与分享/什么情况下算成功购买会员.md",
+        "en-US": "docs/en-US/2.邀请与分享/什么情况下算成功购买会员.md"
+      }
     },
     {
       "title": "为什么用户购买会员后没有产生相应记录？",
@@ -124,8 +168,12 @@
       "obj_type": "docx",
       "has_child": false,
       "space_id": "7476318980194435103",
-      "path": "docs/2.邀请与分享/为什么用户购买会员后没有产生相应记录？.md",
-      "source_url": "https://ssgo0s8vo0j6.sg.larksuite.com/wiki/OYiKwU6nQivFmZk7U6mltwjIgRc"
+      "path": "docs/zh-CN/2.邀请与分享/为什么用户购买会员后没有产生相应记录.md",
+      "source_url": "https://ssgo0s8vo0j6.sg.larksuite.com/wiki/OYiKwU6nQivFmZk7U6mltwjIgRc",
+      "localized_paths": {
+        "zh-CN": "docs/zh-CN/2.邀请与分享/为什么用户购买会员后没有产生相应记录.md",
+        "en-US": "docs/en-US/2.邀请与分享/为什么用户购买会员后没有产生相应记录.md"
+      }
     },
     {
       "title": "分享内容时需要注意什么？",
@@ -134,8 +182,12 @@
       "obj_type": "docx",
       "has_child": false,
       "space_id": "7476318980194435103",
-      "path": "docs/2.邀请与分享/分享内容时需要注意什么？.md",
-      "source_url": "https://ssgo0s8vo0j6.sg.larksuite.com/wiki/LHF0wDMM4in4tBkVE6wl4MgRgRc"
+      "path": "docs/zh-CN/2.邀请与分享/分享内容时需要注意什么.md",
+      "source_url": "https://ssgo0s8vo0j6.sg.larksuite.com/wiki/LHF0wDMM4in4tBkVE6wl4MgRgRc",
+      "localized_paths": {
+        "zh-CN": "docs/zh-CN/2.邀请与分享/分享内容时需要注意什么.md",
+        "en-US": "docs/en-US/2.邀请与分享/分享内容时需要注意什么.md"
+      }
     },
     {
       "title": "数据与明细",
@@ -144,8 +196,12 @@
       "obj_type": "docx",
       "has_child": true,
       "space_id": "7476318980194435103",
-      "path": "docs/3.数据与明细/README.md",
-      "source_url": "https://ssgo0s8vo0j6.sg.larksuite.com/wiki/Cl1xw9aEFi1gSgknOPflWeYPgFb"
+      "path": "docs/zh-CN/3.数据与明细/README.md",
+      "source_url": "https://ssgo0s8vo0j6.sg.larksuite.com/wiki/Cl1xw9aEFi1gSgknOPflWeYPgFb",
+      "localized_paths": {
+        "zh-CN": "docs/zh-CN/3.数据与明细/README.md",
+        "en-US": "docs/en-US/3.数据与明细/README.md"
+      }
     },
     {
       "title": "在哪里查看邀请和收益明细？",
@@ -154,8 +210,12 @@
       "obj_type": "docx",
       "has_child": false,
       "space_id": "7476318980194435103",
-      "path": "docs/3.数据与明细/在哪里查看邀请和收益明细？.md",
-      "source_url": "https://ssgo0s8vo0j6.sg.larksuite.com/wiki/FMI7whjLgiQNyskpfQmlH9xWgQQ"
+      "path": "docs/zh-CN/3.数据与明细/在哪里查看邀请和收益明细.md",
+      "source_url": "https://ssgo0s8vo0j6.sg.larksuite.com/wiki/FMI7whjLgiQNyskpfQmlH9xWgQQ",
+      "localized_paths": {
+        "zh-CN": "docs/zh-CN/3.数据与明细/在哪里查看邀请和收益明细.md",
+        "en-US": "docs/en-US/3.数据与明细/在哪里查看邀请和收益明细.md"
+      }
     },
     {
       "title": "数据多长时间更新一次？",
@@ -164,8 +224,12 @@
       "obj_type": "docx",
       "has_child": false,
       "space_id": "7476318980194435103",
-      "path": "docs/3.数据与明细/数据多长时间更新一次？.md",
-      "source_url": "https://ssgo0s8vo0j6.sg.larksuite.com/wiki/OGqkwyHNEibSMxkG8dmlvmDCgRg"
+      "path": "docs/zh-CN/3.数据与明细/数据多长时间更新一次.md",
+      "source_url": "https://ssgo0s8vo0j6.sg.larksuite.com/wiki/OGqkwyHNEibSMxkG8dmlvmDCgRg",
+      "localized_paths": {
+        "zh-CN": "docs/zh-CN/3.数据与明细/数据多长时间更新一次.md",
+        "en-US": "docs/en-US/3.数据与明细/数据多长时间更新一次.md"
+      }
     },
     {
       "title": "为什么刚完成的邀请没有立即显示？",
@@ -174,8 +238,12 @@
       "obj_type": "docx",
       "has_child": false,
       "space_id": "7476318980194435103",
-      "path": "docs/3.数据与明细/为什么刚完成的邀请没有立即显示？.md",
-      "source_url": "https://ssgo0s8vo0j6.sg.larksuite.com/wiki/PTj6wAjkXiUjZhkzEhGljgrGgrd"
+      "path": "docs/zh-CN/3.数据与明细/为什么刚完成的邀请没有立即显示.md",
+      "source_url": "https://ssgo0s8vo0j6.sg.larksuite.com/wiki/PTj6wAjkXiUjZhkzEhGljgrGgrd",
+      "localized_paths": {
+        "zh-CN": "docs/zh-CN/3.数据与明细/为什么刚完成的邀请没有立即显示.md",
+        "en-US": "docs/en-US/3.数据与明细/为什么刚完成的邀请没有立即显示.md"
+      }
     },
     {
       "title": "收益与结算",
@@ -184,8 +252,12 @@
       "obj_type": "docx",
       "has_child": true,
       "space_id": "7476318980194435103",
-      "path": "docs/4.收益与结算/README.md",
-      "source_url": "https://ssgo0s8vo0j6.sg.larksuite.com/wiki/QZAMwMwpmicYCkksoQWl5OgJglb"
+      "path": "docs/zh-CN/4.收益与结算/README.md",
+      "source_url": "https://ssgo0s8vo0j6.sg.larksuite.com/wiki/QZAMwMwpmicYCkksoQWl5OgJglb",
+      "localized_paths": {
+        "zh-CN": "docs/zh-CN/4.收益与结算/README.md",
+        "en-US": "docs/en-US/4.收益与结算/README.md"
+      }
     },
     {
       "title": "为什么收益处于锁定状态？",
@@ -194,8 +266,12 @@
       "obj_type": "docx",
       "has_child": false,
       "space_id": "7476318980194435103",
-      "path": "docs/4.收益与结算/为什么收益处于锁定状态？.md",
-      "source_url": "https://ssgo0s8vo0j6.sg.larksuite.com/wiki/OddEwHyyOiK705kyTbtlcEEEg0f"
+      "path": "docs/zh-CN/4.收益与结算/为什么收益处于锁定状态.md",
+      "source_url": "https://ssgo0s8vo0j6.sg.larksuite.com/wiki/OddEwHyyOiK705kyTbtlcEEEg0f",
+      "localized_paths": {
+        "zh-CN": "docs/zh-CN/4.收益与结算/为什么收益处于锁定状态.md",
+        "en-US": "docs/en-US/4.收益与结算/为什么收益处于锁定状态.md"
+      }
     },
     {
       "title": "通过免费方式获得会员会产生会员分成收益吗？",
@@ -204,8 +280,12 @@
       "obj_type": "docx",
       "has_child": false,
       "space_id": "7476318980194435103",
-      "path": "docs/4.收益与结算/通过免费方式获得会员会产生会员分成收益吗？.md",
-      "source_url": "https://ssgo0s8vo0j6.sg.larksuite.com/wiki/J3hiwGSMfirnU8kItRLlvgUzgAc"
+      "path": "docs/zh-CN/4.收益与结算/通过免费方式获得会员会产生会员分成收益吗.md",
+      "source_url": "https://ssgo0s8vo0j6.sg.larksuite.com/wiki/J3hiwGSMfirnU8kItRLlvgUzgAc",
+      "localized_paths": {
+        "zh-CN": "docs/zh-CN/4.收益与结算/通过免费方式获得会员会产生会员分成收益吗.md",
+        "en-US": "docs/en-US/4.收益与结算/通过免费方式获得会员会产生会员分成收益吗.md"
+      }
     },
     {
       "title": "用户退款后相关收益如何处理？",
@@ -214,8 +294,12 @@
       "obj_type": "docx",
       "has_child": false,
       "space_id": "7476318980194435103",
-      "path": "docs/4.收益与结算/用户退款后相关收益如何处理？.md",
-      "source_url": "https://ssgo0s8vo0j6.sg.larksuite.com/wiki/R2KHwIFOaiD2dXk7ehjlBjqBgNd"
+      "path": "docs/zh-CN/4.收益与结算/用户退款后相关收益如何处理.md",
+      "source_url": "https://ssgo0s8vo0j6.sg.larksuite.com/wiki/R2KHwIFOaiD2dXk7ehjlBjqBgNd",
+      "localized_paths": {
+        "zh-CN": "docs/zh-CN/4.收益与结算/用户退款后相关收益如何处理.md",
+        "en-US": "docs/en-US/4.收益与结算/用户退款后相关收益如何处理.md"
+      }
     },
     {
       "title": "收益使用什么货币计算？",
@@ -224,8 +308,12 @@
       "obj_type": "docx",
       "has_child": false,
       "space_id": "7476318980194435103",
-      "path": "docs/4.收益与结算/收益使用什么货币计算？.md",
-      "source_url": "https://ssgo0s8vo0j6.sg.larksuite.com/wiki/H7i1wfuJri9MwJk6imylUpDYgIr"
+      "path": "docs/zh-CN/4.收益与结算/收益使用什么货币计算.md",
+      "source_url": "https://ssgo0s8vo0j6.sg.larksuite.com/wiki/H7i1wfuJri9MwJk6imylUpDYgIr",
+      "localized_paths": {
+        "zh-CN": "docs/zh-CN/4.收益与结算/收益使用什么货币计算.md",
+        "en-US": "docs/en-US/4.收益与结算/收益使用什么货币计算.md"
+      }
     },
     {
       "title": "为什么有时候我的收益为负数？",
@@ -234,8 +322,12 @@
       "obj_type": "docx",
       "has_child": false,
       "space_id": "7476318980194435103",
-      "path": "docs/4.收益与结算/为什么有时候我的收益为负数？.md",
-      "source_url": "https://ssgo0s8vo0j6.sg.larksuite.com/wiki/TM2YwnEwNi2hd3k8opxlx5RKgUb"
+      "path": "docs/zh-CN/4.收益与结算/为什么有时候我的收益为负数.md",
+      "source_url": "https://ssgo0s8vo0j6.sg.larksuite.com/wiki/TM2YwnEwNi2hd3k8opxlx5RKgUb",
+      "localized_paths": {
+        "zh-CN": "docs/zh-CN/4.收益与结算/为什么有时候我的收益为负数.md",
+        "en-US": "docs/en-US/4.收益与结算/为什么有时候我的收益为负数.md"
+      }
     },
     {
       "title": "待处理收益和可提现收益有什么区别？",
@@ -244,8 +336,12 @@
       "obj_type": "docx",
       "has_child": false,
       "space_id": "7476318980194435103",
-      "path": "docs/4.收益与结算/待处理收益和可提现收益有什么区别？.md",
-      "source_url": "https://ssgo0s8vo0j6.sg.larksuite.com/wiki/AimvwaJcFinepFkNfxElmoBLgTh"
+      "path": "docs/zh-CN/4.收益与结算/待处理收益和可提现收益有什么区别.md",
+      "source_url": "https://ssgo0s8vo0j6.sg.larksuite.com/wiki/AimvwaJcFinepFkNfxElmoBLgTh",
+      "localized_paths": {
+        "zh-CN": "docs/zh-CN/4.收益与结算/待处理收益和可提现收益有什么区别.md",
+        "en-US": "docs/en-US/4.收益与结算/待处理收益和可提现收益有什么区别.md"
+      }
     },
     {
       "title": "提现",
@@ -254,8 +350,12 @@
       "obj_type": "docx",
       "has_child": true,
       "space_id": "7476318980194435103",
-      "path": "docs/5.提现/README.md",
-      "source_url": "https://ssgo0s8vo0j6.sg.larksuite.com/wiki/EzDtwquq9iV2WikVd8Vlpajag8d"
+      "path": "docs/zh-CN/5.提现/README.md",
+      "source_url": "https://ssgo0s8vo0j6.sg.larksuite.com/wiki/EzDtwquq9iV2WikVd8Vlpajag8d",
+      "localized_paths": {
+        "zh-CN": "docs/zh-CN/5.提现/README.md",
+        "en-US": "docs/en-US/5.提现/README.md"
+      }
     },
     {
       "title": "如何发起提现？",
@@ -264,8 +364,12 @@
       "obj_type": "docx",
       "has_child": false,
       "space_id": "7476318980194435103",
-      "path": "docs/5.提现/如何发起提现？.md",
-      "source_url": "https://ssgo0s8vo0j6.sg.larksuite.com/wiki/VKchwc9Keiv2qZkITwclIjDkgPe"
+      "path": "docs/zh-CN/5.提现/如何发起提现.md",
+      "source_url": "https://ssgo0s8vo0j6.sg.larksuite.com/wiki/VKchwc9Keiv2qZkITwclIjDkgPe",
+      "localized_paths": {
+        "zh-CN": "docs/zh-CN/5.提现/如何发起提现.md",
+        "en-US": "docs/en-US/5.提现/如何发起提现.md"
+      }
     },
     {
       "title": "最低提现金额是多少？",
@@ -274,8 +378,12 @@
       "obj_type": "docx",
       "has_child": false,
       "space_id": "7476318980194435103",
-      "path": "docs/5.提现/最低提现金额是多少？.md",
-      "source_url": "https://ssgo0s8vo0j6.sg.larksuite.com/wiki/T7e3wkuW4isseLkb3x0lR3TRg0d"
+      "path": "docs/zh-CN/5.提现/最低提现金额是多少.md",
+      "source_url": "https://ssgo0s8vo0j6.sg.larksuite.com/wiki/T7e3wkuW4isseLkb3x0lR3TRg0d",
+      "localized_paths": {
+        "zh-CN": "docs/zh-CN/5.提现/最低提现金额是多少.md",
+        "en-US": "docs/en-US/5.提现/最低提现金额是多少.md"
+      }
     },
     {
       "title": "提现需要多长时间完成？",
@@ -284,8 +392,12 @@
       "obj_type": "docx",
       "has_child": false,
       "space_id": "7476318980194435103",
-      "path": "docs/5.提现/提现需要多长时间完成？.md",
-      "source_url": "https://ssgo0s8vo0j6.sg.larksuite.com/wiki/P2E7wCXJkie1pvkn4PhlAvn9gEf"
+      "path": "docs/zh-CN/5.提现/提现需要多长时间完成.md",
+      "source_url": "https://ssgo0s8vo0j6.sg.larksuite.com/wiki/P2E7wCXJkie1pvkn4PhlAvn9gEf",
+      "localized_paths": {
+        "zh-CN": "docs/zh-CN/5.提现/提现需要多长时间完成.md",
+        "en-US": "docs/en-US/5.提现/提现需要多长时间完成.md"
+      }
     },
     {
       "title": "支持哪些提现方式？",
@@ -294,8 +406,12 @@
       "obj_type": "docx",
       "has_child": false,
       "space_id": "7476318980194435103",
-      "path": "docs/5.提现/支持哪些提现方式？.md",
-      "source_url": "https://ssgo0s8vo0j6.sg.larksuite.com/wiki/DuuVwb6RqikUcokpKmclE3xwgEg"
+      "path": "docs/zh-CN/5.提现/支持哪些提现方式.md",
+      "source_url": "https://ssgo0s8vo0j6.sg.larksuite.com/wiki/DuuVwb6RqikUcokpKmclE3xwgEg",
+      "localized_paths": {
+        "zh-CN": "docs/zh-CN/5.提现/支持哪些提现方式.md",
+        "en-US": "docs/en-US/5.提现/支持哪些提现方式.md"
+      }
     },
     {
       "title": "如何修改我的提现方式或提现账号／钱包地址？",
@@ -304,8 +420,12 @@
       "obj_type": "docx",
       "has_child": false,
       "space_id": "7476318980194435103",
-      "path": "docs/5.提现/如何修改我的提现方式或提现账号／钱包地址？.md",
-      "source_url": "https://ssgo0s8vo0j6.sg.larksuite.com/wiki/JV8EwdXZCidcOfkOIzSlOwOzghe"
+      "path": "docs/zh-CN/5.提现/如何修改我的提现方式或提现账号钱包地址.md",
+      "source_url": "https://ssgo0s8vo0j6.sg.larksuite.com/wiki/JV8EwdXZCidcOfkOIzSlOwOzghe",
+      "localized_paths": {
+        "zh-CN": "docs/zh-CN/5.提现/如何修改我的提现方式或提现账号钱包地址.md",
+        "en-US": "docs/en-US/5.提现/如何修改我的提现方式或提现账号钱包地址.md"
+      }
     },
     {
       "title": "提现是否会产生手续费？",
@@ -314,8 +434,12 @@
       "obj_type": "docx",
       "has_child": false,
       "space_id": "7476318980194435103",
-      "path": "docs/5.提现/提现是否会产生手续费？.md",
-      "source_url": "https://ssgo0s8vo0j6.sg.larksuite.com/wiki/XEm3wnoPJi2i7vkPRdalKcyJgQb"
+      "path": "docs/zh-CN/5.提现/提现是否会产生手续费.md",
+      "source_url": "https://ssgo0s8vo0j6.sg.larksuite.com/wiki/XEm3wnoPJi2i7vkPRdalKcyJgQb",
+      "localized_paths": {
+        "zh-CN": "docs/zh-CN/5.提现/提现是否会产生手续费.md",
+        "en-US": "docs/en-US/5.提现/提现是否会产生手续费.md"
+      }
     },
     {
       "title": "收益一直不提现会失效吗？",
@@ -324,8 +448,12 @@
       "obj_type": "docx",
       "has_child": false,
       "space_id": "7476318980194435103",
-      "path": "docs/5.提现/收益一直不提现会失效吗？.md",
-      "source_url": "https://ssgo0s8vo0j6.sg.larksuite.com/wiki/Lf62wqqNniHG87koDPhlqoVigfc"
+      "path": "docs/zh-CN/5.提现/收益一直不提现会失效吗.md",
+      "source_url": "https://ssgo0s8vo0j6.sg.larksuite.com/wiki/Lf62wqqNniHG87koDPhlqoVigfc",
+      "localized_paths": {
+        "zh-CN": "docs/zh-CN/5.提现/收益一直不提现会失效吗.md",
+        "en-US": "docs/en-US/5.提现/收益一直不提现会失效吗.md"
+      }
     },
     {
       "title": "提现时如何换算货币？",
@@ -334,8 +462,12 @@
       "obj_type": "docx",
       "has_child": false,
       "space_id": "7476318980194435103",
-      "path": "docs/5.提现/提现时如何换算货币？.md",
-      "source_url": "https://ssgo0s8vo0j6.sg.larksuite.com/wiki/TDHEwMsxTi1Ef4klguTl7tj0gzg"
+      "path": "docs/zh-CN/5.提现/提现时如何换算货币.md",
+      "source_url": "https://ssgo0s8vo0j6.sg.larksuite.com/wiki/TDHEwMsxTi1Ef4klguTl7tj0gzg",
+      "localized_paths": {
+        "zh-CN": "docs/zh-CN/5.提现/提现时如何换算货币.md",
+        "en-US": "docs/en-US/5.提现/提现时如何换算货币.md"
+      }
     },
     {
       "title": "等级与权益",
@@ -344,8 +476,12 @@
       "obj_type": "docx",
       "has_child": true,
       "space_id": "7476318980194435103",
-      "path": "docs/6.等级与权益/README.md",
-      "source_url": "https://ssgo0s8vo0j6.sg.larksuite.com/wiki/URDowTAWSi0FRZkJ7VElNbohgef"
+      "path": "docs/zh-CN/6.等级与权益/README.md",
+      "source_url": "https://ssgo0s8vo0j6.sg.larksuite.com/wiki/URDowTAWSi0FRZkJ7VElNbohgef",
+      "localized_paths": {
+        "zh-CN": "docs/zh-CN/6.等级与权益/README.md",
+        "en-US": "docs/en-US/6.等级与权益/README.md"
+      }
     },
     {
       "title": "什么是引荐计划 Pro 等级？",
@@ -354,8 +490,12 @@
       "obj_type": "docx",
       "has_child": false,
       "space_id": "7476318980194435103",
-      "path": "docs/6.等级与权益/什么是引荐计划 Pro 等级？.md",
-      "source_url": "https://ssgo0s8vo0j6.sg.larksuite.com/wiki/QboQwmjVkiytJ1kuMpilxNPKgZf"
+      "path": "docs/zh-CN/6.等级与权益/什么是引荐计划Pro等级.md",
+      "source_url": "https://ssgo0s8vo0j6.sg.larksuite.com/wiki/QboQwmjVkiytJ1kuMpilxNPKgZf",
+      "localized_paths": {
+        "zh-CN": "docs/zh-CN/6.等级与权益/什么是引荐计划Pro等级.md",
+        "en-US": "docs/en-US/6.等级与权益/什么是引荐计划Pro等级.md"
+      }
     },
     {
       "title": "等级权益什么时候生效？",
@@ -364,8 +504,12 @@
       "obj_type": "docx",
       "has_child": false,
       "space_id": "7476318980194435103",
-      "path": "docs/6.等级与权益/等级权益什么时候生效？.md",
-      "source_url": "https://ssgo0s8vo0j6.sg.larksuite.com/wiki/GLUuwcOw0ixhmxkkoY4l2X3WgSh"
+      "path": "docs/zh-CN/6.等级与权益/等级权益什么时候生效.md",
+      "source_url": "https://ssgo0s8vo0j6.sg.larksuite.com/wiki/GLUuwcOw0ixhmxkkoY4l2X3WgSh",
+      "localized_paths": {
+        "zh-CN": "docs/zh-CN/6.等级与权益/等级权益什么时候生效.md",
+        "en-US": "docs/en-US/6.等级与权益/等级权益什么时候生效.md"
+      }
     },
     {
       "title": "不同等级的存储超额权益有什么区别？",
@@ -374,8 +518,12 @@
       "obj_type": "docx",
       "has_child": false,
       "space_id": "7476318980194435103",
-      "path": "docs/6.等级与权益/不同等级的存储超额权益有什么区别？.md",
-      "source_url": "https://ssgo0s8vo0j6.sg.larksuite.com/wiki/AAmuwlxEaiEeznk9s46lRmn8gfd"
+      "path": "docs/zh-CN/6.等级与权益/不同等级的存储超额权益有什么区别.md",
+      "source_url": "https://ssgo0s8vo0j6.sg.larksuite.com/wiki/AAmuwlxEaiEeznk9s46lRmn8gfd",
+      "localized_paths": {
+        "zh-CN": "docs/zh-CN/6.等级与权益/不同等级的存储超额权益有什么区别.md",
+        "en-US": "docs/en-US/6.等级与权益/不同等级的存储超额权益有什么区别.md"
+      }
     },
     {
       "title": "等级变化后，存储超额状态会如何变化？",
@@ -384,8 +532,12 @@
       "obj_type": "docx",
       "has_child": false,
       "space_id": "7476318980194435103",
-      "path": "docs/6.等级与权益/等级变化后，存储超额状态会如何变化？.md",
-      "source_url": "https://ssgo0s8vo0j6.sg.larksuite.com/wiki/EFszw5A3piopBmkeN46l23nZgRf"
+      "path": "docs/zh-CN/6.等级与权益/等级变化后存储超额状态会如何变化.md",
+      "source_url": "https://ssgo0s8vo0j6.sg.larksuite.com/wiki/EFszw5A3piopBmkeN46l23nZgRf",
+      "localized_paths": {
+        "zh-CN": "docs/zh-CN/6.等级与权益/等级变化后存储超额状态会如何变化.md",
+        "en-US": "docs/en-US/6.等级与权益/等级变化后存储超额状态会如何变化.md"
+      }
     },
     {
       "title": "为什么我的等级会出现异常提醒？",
@@ -394,8 +546,12 @@
       "obj_type": "docx",
       "has_child": false,
       "space_id": "7476318980194435103",
-      "path": "docs/6.等级与权益/为什么我的等级会出现异常提醒？.md",
-      "source_url": "https://ssgo0s8vo0j6.sg.larksuite.com/wiki/VNaewmlWiim7eVkpBhHlTHEBgjb"
+      "path": "docs/zh-CN/6.等级与权益/为什么我的等级会出现异常提醒.md",
+      "source_url": "https://ssgo0s8vo0j6.sg.larksuite.com/wiki/VNaewmlWiim7eVkpBhHlTHEBgjb",
+      "localized_paths": {
+        "zh-CN": "docs/zh-CN/6.等级与权益/为什么我的等级会出现异常提醒.md",
+        "en-US": "docs/en-US/6.等级与权益/为什么我的等级会出现异常提醒.md"
+      }
     },
     {
       "title": "等级异常后如何恢复？",
@@ -404,8 +560,12 @@
       "obj_type": "docx",
       "has_child": false,
       "space_id": "7476318980194435103",
-      "path": "docs/6.等级与权益/等级异常后如何恢复？.md",
-      "source_url": "https://ssgo0s8vo0j6.sg.larksuite.com/wiki/Ji51w4REeiyXtVk2Is4lEBEggVh"
+      "path": "docs/zh-CN/6.等级与权益/等级异常后如何恢复.md",
+      "source_url": "https://ssgo0s8vo0j6.sg.larksuite.com/wiki/Ji51w4REeiyXtVk2Is4lEBEggVh",
+      "localized_paths": {
+        "zh-CN": "docs/zh-CN/6.等级与权益/等级异常后如何恢复.md",
+        "en-US": "docs/en-US/6.等级与权益/等级异常后如何恢复.md"
+      }
     },
     {
       "title": "使用技巧",
@@ -414,8 +574,12 @@
       "obj_type": "docx",
       "has_child": true,
       "space_id": "7476318980194435103",
-      "path": "docs/7.使用技巧/README.md",
-      "source_url": "https://ssgo0s8vo0j6.sg.larksuite.com/wiki/B9y9wpluqigkFok6vTUlhEo5gQh"
+      "path": "docs/zh-CN/7.使用技巧/README.md",
+      "source_url": "https://ssgo0s8vo0j6.sg.larksuite.com/wiki/B9y9wpluqigkFok6vTUlhEo5gQh",
+      "localized_paths": {
+        "zh-CN": "docs/zh-CN/7.使用技巧/README.md",
+        "en-US": "docs/en-US/7.使用技巧/README.md"
+      }
     },
     {
       "title": "如何创建分享代码？",
@@ -424,8 +588,12 @@
       "obj_type": "docx",
       "has_child": false,
       "space_id": "7476318980194435103",
-      "path": "docs/7.使用技巧/如何创建分享代码？.md",
-      "source_url": "https://ssgo0s8vo0j6.sg.larksuite.com/wiki/OtY2wnA5IilJg2kn88qljwEbgUm"
+      "path": "docs/zh-CN/7.使用技巧/如何创建分享代码.md",
+      "source_url": "https://ssgo0s8vo0j6.sg.larksuite.com/wiki/OtY2wnA5IilJg2kn88qljwEbgUm",
+      "localized_paths": {
+        "zh-CN": "docs/zh-CN/7.使用技巧/如何创建分享代码.md",
+        "en-US": "docs/en-US/7.使用技巧/如何创建分享代码.md"
+      }
     },
     {
       "title": "什么时候适合使用分享代码？",
@@ -434,8 +602,12 @@
       "obj_type": "docx",
       "has_child": false,
       "space_id": "7476318980194435103",
-      "path": "docs/7.使用技巧/什么时候适合使用分享代码？.md",
-      "source_url": "https://ssgo0s8vo0j6.sg.larksuite.com/wiki/JoNLwot55iBLGJkF1Q5lClIGgAq"
+      "path": "docs/zh-CN/7.使用技巧/什么时候适合使用分享代码.md",
+      "source_url": "https://ssgo0s8vo0j6.sg.larksuite.com/wiki/JoNLwot55iBLGJkF1Q5lClIGgAq",
+      "localized_paths": {
+        "zh-CN": "docs/zh-CN/7.使用技巧/什么时候适合使用分享代码.md",
+        "en-US": "docs/en-US/7.使用技巧/什么时候适合使用分享代码.md"
+      }
     },
     {
       "title": "如何使用「分享更新」增加收益机会？",
@@ -444,8 +616,19 @@
       "obj_type": "docx",
       "has_child": false,
       "space_id": "7476318980194435103",
-      "path": "docs/7.使用技巧/如何使用「分享更新」增加收益机会？.md",
-      "source_url": "https://ssgo0s8vo0j6.sg.larksuite.com/wiki/A8HRwm4BNiAWhzk02VblROqDgqb"
+      "path": "docs/zh-CN/7.使用技巧/如何使用分享更新增加收益机会.md",
+      "source_url": "https://ssgo0s8vo0j6.sg.larksuite.com/wiki/A8HRwm4BNiAWhzk02VblROqDgqb",
+      "localized_paths": {
+        "zh-CN": "docs/zh-CN/7.使用技巧/如何使用分享更新增加收益机会.md",
+        "en-US": "docs/en-US/7.使用技巧/如何使用分享更新增加收益机会.md"
+      }
     }
-  ]
+  ],
+  "docs_root_path": "docs",
+  "locales": [
+    "zh-CN",
+    "en-US"
+  ],
+  "root_selector_path": "docs/README.md",
+  "summary_path": "docs/SUMMARY.md"
 }

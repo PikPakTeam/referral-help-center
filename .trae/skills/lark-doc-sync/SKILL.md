@@ -68,7 +68,12 @@ description: "Syncs Lark Wiki/Doc content into local Markdown folders and manife
 同步结果默认采用：
 
 - 文档根目录固定为：`docs/`
-- 根节点正文写入 `docs/README.md`
+- 若正文同时包含中文和英文段落，则拆分为：
+  - `docs/zh-CN/**`
+  - `docs/en-US/**`
+- `docs/README.md` 作为语言入口页
+- `docs/SUMMARY.md` 作为根导航页
+- 各语言目录下保留各自的 `README.md` 与 `SUMMARY.md`
 - 一级栏目保留目录，并使用 `栏目目录/README.md` 作为栏目首页
 - 无子节点的叶子页直接写成同级 `文件名.md`
 
@@ -77,14 +82,24 @@ description: "Syncs Lark Wiki/Doc content into local Markdown folders and manife
 ```text
 docs/
   README.md
-  1.计划概览/
+  SUMMARY.md
+  zh-CN/
     README.md
-    加入引荐计划 Pro 后可以退出吗？.md
+    SUMMARY.md
+    1.计划概览/
+      README.md
+      加入引荐计划Pro后可以退出吗.md
+  en-US/
+    README.md
+    SUMMARY.md
+    1.计划概览/
+      README.md
+      加入引荐计划Pro后可以退出吗.md
 ```
 
 ### 2. 一级目录命名
 
-如果 `docs/` 下已经使用了带序号的一级栏目命名，例如：
+如果 `docs/zh-CN/` 与 `docs/en-US/` 下已经使用了带序号的一级栏目命名，例如：
 
 - `1.计划概览`
 - `2.邀请与分享`
@@ -101,6 +116,8 @@ docs/
 - 目录名使用文档标题
 - 只有“带子页面的栏目节点”才保留 `目录/README.md`
 - 叶子页优先使用 `文件名.md`
+- 若目标目录要用于 GitBook，叶子页文件名优先保持中文标题，但应去掉空格、问号、引号、全角斜杠等不稳定标点
+- 若同一篇正文中存在 `## English` 分段，则必须拆分到 `zh-CN` 与 `en-US` 两个目录中，不再保留双语同页
 - 对非法文件名字符进行清洗
 - 若同级标题重名，追加稳定后缀避免冲突
 - 不要为纯叶子页额外创建一层只包含 `README.md` 的目录
@@ -125,6 +142,7 @@ docs/
 - 各节点标题
 - 各节点 `node_token`
 - 各节点本地路径
+- 各节点多语言本地路径映射
 - 各节点对应的源链接
 
 ## 身份与权限规则
@@ -217,10 +235,15 @@ lark-cli docs +fetch --doc "<obj_token>" --as user --doc-format markdown --forma
 
 正文写入规则：
 
-- 根节点正文写入根目录 `README.md`
-- 带子页面的栏目节点写入对应目录的 `README.md`
-- 叶子节点正文写入同级 `文件名.md`
-- 正文保持 Markdown 原样，不额外改写文案
+- 带 `## English` 的叶子页：
+  - 中文部分写入 `docs/zh-CN/**`
+  - 英文部分写入 `docs/en-US/**`
+- 根入口写入 `docs/README.md`
+- 根导航写入 `docs/SUMMARY.md`
+- 各语言根页分别写入 `docs/zh-CN/README.md` 与 `docs/en-US/README.md`
+- 各语言 `SUMMARY.md` 分别维护
+- 栏目页在各语言目录内分别生成
+- 正文保持 Markdown 原意，不额外改写叶子页文案
 
 ### 步骤 5：写入本地目录
 
@@ -239,6 +262,7 @@ lark-cli docs +fetch --doc "<obj_token>" --as user --doc-format markdown --forma
 - 当前同步来源
 - 节点总数
 - 本地路径映射
+- 多语言路径映射
 - 源节点映射
 
 ### 步骤 7：校验结果
@@ -246,10 +270,12 @@ lark-cli docs +fetch --doc "<obj_token>" --as user --doc-format markdown --forma
 同步完成后至少检查：
 
 1. `docs/` 是否生成
-2. 根页和栏目页是否使用 `README.md`
-3. 叶子页是否为直接 `.md` 文件而不是多余目录
-4. `.trae/cache/docs.lark-sync.json` 是否存在且路径正确
-5. 抽样检查 1 到 3 篇正文是否成功落盘
+2. `docs/zh-CN/` 与 `docs/en-US/` 是否生成
+3. 根页、语言页和栏目页是否使用 `README.md`
+4. 各级 `SUMMARY.md` 是否存在且路径正确
+5. 叶子页是否为直接 `.md` 文件而不是多余目录
+6. `.trae/cache/docs.lark-sync.json` 是否存在且路径正确
+7. 抽样检查中英文正文是否成功拆分落盘
 
 ## 对比模式
 
