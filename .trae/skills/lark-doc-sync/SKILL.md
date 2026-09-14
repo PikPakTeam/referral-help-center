@@ -67,8 +67,9 @@ description: "Syncs Lark Wiki/Doc content into local Markdown folders and manife
 同步结果默认采用：
 
 - 根节点目录：`<文档标题>/`
-- 每个节点一个目录
-- 每个节点正文写入该目录下的 `README.md`
+- 根节点正文写入根目录 `README.md`
+- 一级栏目保留目录，并使用 `栏目目录/README.md` 作为栏目首页
+- 无子节点的叶子页直接写成同级 `文件名.md`
 
 例如：
 
@@ -77,8 +78,7 @@ description: "Syncs Lark Wiki/Doc content into local Markdown folders and manife
   README.md
   1.计划概览/
     README.md
-    加入引荐计划 Pro 后可以退出吗？/
-      README.md
+    加入引荐计划 Pro 后可以退出吗？.md
 ```
 
 ### 2. 一级目录命名
@@ -98,9 +98,11 @@ description: "Syncs Lark Wiki/Doc content into local Markdown folders and manife
 ### 3. 文件命名约束
 
 - 目录名使用文档标题
+- 只有“带子页面的栏目节点”才保留 `目录/README.md`
+- 叶子页优先使用 `文件名.md`
 - 对非法文件名字符进行清洗
 - 若同级标题重名，追加稳定后缀避免冲突
-- 除 `README.md` 外，不要在每个节点目录里额外生成冗余说明文件
+- 不要为纯叶子页额外创建一层只包含 `README.md` 的目录
 
 ### 4. 清单文件
 
@@ -209,7 +211,8 @@ lark-cli docs +fetch --doc "<obj_token>" --as user --doc-format markdown --forma
 正文写入规则：
 
 - 根节点正文写入根目录 `README.md`
-- 子节点正文写入对应目录的 `README.md`
+- 带子页面的栏目节点写入对应目录的 `README.md`
+- 叶子节点正文写入同级 `文件名.md`
 - 正文保持 Markdown 原样，不额外改写文案
 
 ### 步骤 5：写入本地目录
@@ -236,9 +239,10 @@ lark-cli docs +fetch --doc "<obj_token>" --as user --doc-format markdown --forma
 同步完成后至少检查：
 
 1. 根目录是否生成
-2. `README.md` 数量是否与节点数量一致
-3. `.lark-sync.json` 是否存在且路径正确
-4. 抽样检查 1 到 3 篇正文是否成功落盘
+2. 根页和栏目页是否使用 `README.md`
+3. 叶子页是否为直接 `.md` 文件而不是多余目录
+4. `.lark-sync.json` 是否存在且路径正确
+5. 抽样检查 1 到 3 篇正文是否成功落盘
 
 ## 对比模式
 
