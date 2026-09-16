@@ -1,9 +1,9 @@
-# How Do I Use My Code with PikPak CLI?
+# How do I use my code with PikPak CLI?
 
-Add the --affiliate option to the registration command, for example:
+Add the --affiliate option to the registration command, for example:&#x20;
 
 ```bash
 pikpak auth register --affiliate YOUR_CODE
 ```
 
-A tool can also pass the code through the PIKPAK_AFFILIATE environment variable. If both are set, the --affiliate option takes priority.
+A tool can also pass the code through the PIKPAK\_AFFILIATE environment variable. If both are set, the --affiliate option takes priority.

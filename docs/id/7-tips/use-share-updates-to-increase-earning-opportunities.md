@@ -27,9 +27,9 @@ Pembaruan Berbagi saat ini hanya tersedia di Aplikasi Seluler PikPak. Anda dapat
 
 Saat menggunakan Pembaruan Berbagi, pertimbangkan kiat berikut:
 
-- **Fokuskan pembaruan pada topik yang sama:** Tambahkan konten yang terkait dengan topik yang diminati pengguna agar mereka cepat memahami nilai setiap pembaruan.
-- **Perbarui berbagi asli jika memungkinkan:** Jika konten baru masih dalam topik yang sama, lanjutkan memperbarui berbagi asli, bukan membuat banyak berbagi serupa. Pengguna yang mengikuti berbagi asli tidak akan otomatis mengikuti berbagi yang baru dibuat.
-- **Jaga struktur file tetap jelas:** Gunakan nama folder dan file yang mudah dikenali agar pengguna cepat menemukan konten baru.
-- **Dorong pengguna untuk menyimpan dan mengikuti berbagi:** Pengguna yang menyimpan dan mengikuti berbagi lebih mudah melihat konten yang Anda tambahkan kemudian.
-- **Biarkan Pembaruan Berbagi tetap aktif:** Jika Anda mematikan Izinkan melihat pembaruan dan mengikuti, pengguna tidak lagi dapat menggunakan fitur ini untuk melihat pembaruan berikutnya.
-- **Hindari sering mengganti kata sandi berbagi:** Setelah kata sandi diubah, pengguna mungkin perlu memasukkan kata sandi baru sebelum dapat melihat berbagi dan pembaruannya. Jika perlu mengubahnya, pastikan Anda mengirimkan kata sandi baru kepada pengguna.
+* **Fokuskan pembaruan pada topik yang sama:** Tambahkan konten yang terkait dengan topik yang diminati pengguna agar mereka cepat memahami nilai setiap pembaruan.
+* **Perbarui berbagi asli jika memungkinkan:** Jika konten baru masih dalam topik yang sama, lanjutkan memperbarui berbagi asli, bukan membuat banyak berbagi serupa. Pengguna yang mengikuti berbagi asli tidak akan otomatis mengikuti berbagi yang baru dibuat.
+* **Jaga struktur file tetap jelas:** Gunakan nama folder dan file yang mudah dikenali agar pengguna cepat menemukan konten baru.
+* **Dorong pengguna untuk menyimpan dan mengikuti berbagi:** Pengguna yang menyimpan dan mengikuti berbagi lebih mudah melihat konten yang Anda tambahkan kemudian.
+* **Biarkan Pembaruan Berbagi tetap aktif:** Jika Anda mematikan Izinkan melihat pembaruan dan mengikuti, pengguna tidak lagi dapat menggunakan fitur ini untuk melihat pembaruan berikutnya.
+* **Hindari sering mengganti kata sandi berbagi:** Setelah kata sandi diubah, pengguna mungkin perlu memasukkan kata sandi baru sebelum dapat melihat berbagi dan pembaruannya. Jika perlu mengubahnya, pastikan Anda mengirimkan kata sandi baru kepada pengguna.

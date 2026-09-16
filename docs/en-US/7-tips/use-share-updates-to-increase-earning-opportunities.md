@@ -27,9 +27,9 @@ Share Updates is currently available only in the PikPak Mobile App. You can send
 
 When using Share Updates, consider the following tips:
 
-- **Keep updates focused on the same topic:** Add content related to topics your users care about so they can quickly understand the value of each update.
-- **Update the original share whenever possible:** If new content is related to the same topic, continue updating the original share instead of creating multiple similar shares. Users who follow the original share will not automatically follow a newly created share.
-- **Keep your file structure clear:** Use recognizable folder and file names so users can quickly find new content.
-- **Encourage users to save and follow the share:** Users who save and follow the share can more easily view content you add later.
-- **Keep Share Updates enabled:** If you turn off Allow viewing of updates and following, users will no longer be able to use this feature to view future updates.
-- **Avoid changing the share password frequently:** After you change the share password, users may need to enter the new password before they can view the share and its updates. If you need to change it, make sure to send users the new password.
+* **Keep updates focused on the same topic:** Add content related to topics your users care about so they can quickly understand the value of each update.
+* **Update the original share whenever possible:** If new content is related to the same topic, continue updating the original share instead of creating multiple similar shares. Users who follow the original share will not automatically follow a newly created share.
+* **Keep your file structure clear:** Use recognizable folder and file names so users can quickly find new content.
+* **Encourage users to save and follow the share:** Users who save and follow the share can more easily view content you add later.
+* **Keep Share Updates enabled:** If you turn off Allow viewing of updates and following, users will no longer be able to use this feature to view future updates.
+* **Avoid changing the share password frequently:** After you change the share password, users may need to enter the new password before they can view the share and its updates. If you need to change it, make sure to send users the new password.

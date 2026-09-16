@@ -1,5 +1,3 @@
 # 可以透過哪些方式邀請新用戶？
 
-您可以透過分享文件連結、App 安裝連結、會員購買連結、官方網站連結、Torrent 宣傳頁面連結或 App 邀請碼等方式邀請用戶。
-新用戶需要以相應方式完成註冊、儲存檔案或安裝 App 等操作，系統才會進一步判斷邀請是否有效。
-如需在 PikPak CLI 或 AI agent 工具中使用邀請碼，請查看[CLI 和開發者分發](../8-cli-and-developer-distribution/README.md)。
+您可以透過分享文件連結、App 安裝連結、會員購買連結、官方網站連結、Torrent 宣傳頁面連結或 App 邀請碼等方式邀請用戶。 新用戶需要以相應方式完成註冊、儲存檔案或安裝 App 等操作，系統才會進一步判斷邀請是否有效。 如需在 PikPak CLI 或 AI agent 工具中使用邀請碼，請查看[CLI 和開發者分發](../8-cli-and-developer-distribution/)。

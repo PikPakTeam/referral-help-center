@@ -27,9 +27,9 @@ Kemas Kini Perkongsian pada masa ini hanya tersedia dalam Apl Mudah Alih PikPak.
 
 Apabila menggunakan Kemas Kini Perkongsian, pertimbangkan petua berikut:
 
-- **Kekalkan kemas kini pada topik yang sama:** Tambah kandungan yang berkaitan dengan topik yang diminati pengguna supaya mereka cepat memahami nilai setiap kemas kini.
-- **Kemas kini perkongsian asal apabila boleh:** Jika kandungan baharu berkaitan dengan topik yang sama, terus kemas kini perkongsian asal dan jangan cipta pelbagai perkongsian serupa. Pengguna yang mengikuti perkongsian asal tidak akan mengikuti perkongsian baharu secara automatik.
-- **Kekalkan struktur fail yang jelas:** Gunakan nama folder dan fail yang mudah dikenali supaya pengguna cepat menemui kandungan baharu.
-- **Galakkan pengguna menyimpan dan mengikuti perkongsian:** Pengguna yang menyimpan dan mengikuti perkongsian lebih mudah melihat kandungan yang anda tambah kemudian.
-- **Biarkan Kemas Kini Perkongsian didayakan:** Jika anda mematikan Benarkan melihat kemas kini dan mengikuti, pengguna tidak lagi dapat menggunakan ciri ini untuk melihat kemas kini akan datang.
-- **Elakkan menukar kata laluan kongsi dengan kerap:** Selepas anda menukar kata laluan kongsi, pengguna mungkin perlu memasukkan kata laluan baharu sebelum dapat melihat perkongsian dan kemas kininya. Jika anda perlu menukarnya, pastikan anda menghantar kata laluan baharu kepada pengguna.
+* **Kekalkan kemas kini pada topik yang sama:** Tambah kandungan yang berkaitan dengan topik yang diminati pengguna supaya mereka cepat memahami nilai setiap kemas kini.
+* **Kemas kini perkongsian asal apabila boleh:** Jika kandungan baharu berkaitan dengan topik yang sama, terus kemas kini perkongsian asal dan jangan cipta pelbagai perkongsian serupa. Pengguna yang mengikuti perkongsian asal tidak akan mengikuti perkongsian baharu secara automatik.
+* **Kekalkan struktur fail yang jelas:** Gunakan nama folder dan fail yang mudah dikenali supaya pengguna cepat menemui kandungan baharu.
+* **Galakkan pengguna menyimpan dan mengikuti perkongsian:** Pengguna yang menyimpan dan mengikuti perkongsian lebih mudah melihat kandungan yang anda tambah kemudian.
+* **Biarkan Kemas Kini Perkongsian didayakan:** Jika anda mematikan Benarkan melihat kemas kini dan mengikuti, pengguna tidak lagi dapat menggunakan ciri ini untuk melihat kemas kini akan datang.
+* **Elakkan menukar kata laluan kongsi dengan kerap:** Selepas anda menukar kata laluan kongsi, pengguna mungkin perlu memasukkan kata laluan baharu sebelum dapat melihat perkongsian dan kemas kininya. Jika anda perlu menukarnya, pastikan anda menghantar kata laluan baharu kepada pengguna.
