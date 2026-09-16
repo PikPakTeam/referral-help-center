@@ -11,3 +11,5 @@ Referral Program Proのルール、紹介方法、収益の精算、出金、レ
 - [出金](5-withdrawals/README.md)
 - [レベルと特典](6-levels-and-benefits/README.md)
 - [ヒント](7-tips/README.md)
+
+- [CLI と開発者向け配布](8-cli-and-developer-distribution/README.md)

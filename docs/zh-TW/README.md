@@ -11,3 +11,5 @@
 - [提現](5-withdrawals/README.md)
 - [等級與權益](6-levels-and-benefits/README.md)
 - [使用技巧](7-tips/README.md)
+
+- [CLI 和開發者分發](8-cli-and-developer-distribution/README.md)

@@ -11,3 +11,5 @@
 - [عمليات السحب](5-withdrawals/README.md)
 - [المستويات والمزايا](6-levels-and-benefits/README.md)
 - [نصائح](7-tips/README.md)
+
+- [CLI وتوزيع المطورين](8-cli-and-developer-distribution/README.md)

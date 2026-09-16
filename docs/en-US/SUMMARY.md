@@ -44,3 +44,12 @@
     - [How do I create a Share Code?](7-tips/how-to-create-share-code.md)
     - [When should I use a Share Code?](7-tips/when-to-use-share-code.md)
     - [How can I use Share Updates to create more earning opportunities?](7-tips/use-share-updates-to-increase-earning-opportunities.md)
+
+  - [CLI and Developer Distribution](8-cli-and-developer-distribution/README.md)
+    - [Who Can Enable Affiliate Distribution?](8-cli-and-developer-distribution/who-can-enable-affiliate-distribution.md)
+    - [What Is Affiliate Distribution?](8-cli-and-developer-distribution/what-is-affiliate-distribution.md)
+    - [Why Can’t My Code Be Used for CLI Registration?](8-cli-and-developer-distribution/why-code-cannot-be-used-for-cli-registration.md)
+    - [What Should I Do After Enabling Affiliate Distribution?](8-cli-and-developer-distribution/what-to-do-after-enabling-affiliate-distribution.md)
+    - [Will Affiliate Distribution Affect My Existing Invitation Methods?](8-cli-and-developer-distribution/whether-affiliate-distribution-affects-existing-invitation-methods.md)
+    - [How Do I Use My Code with PikPak CLI?](8-cli-and-developer-distribution/how-to-use-invitation-code-in-pikpak-cli.md)
+    - [How Are Earnings Calculated When a Referred User Purchases Premium?](8-cli-and-developer-distribution/how-earnings-are-calculated-for-affiliate-distribution-referrals.md)

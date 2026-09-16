@@ -44,3 +44,12 @@
     - [如何创建分享代码？](7-tips/how-to-create-share-code.md)
     - [什么时候适合使用分享代码？](7-tips/when-to-use-share-code.md)
     - [如何使用「分享更新」增加收益机会？](7-tips/use-share-updates-to-increase-earning-opportunities.md)
+
+  - [CLI 和开发者分发](8-cli-and-developer-distribution/README.md)
+    - [谁可以启用联盟分发？](8-cli-and-developer-distribution/who-can-enable-affiliate-distribution.md)
+    - [什么是联盟分发？](8-cli-and-developer-distribution/what-is-affiliate-distribution.md)
+    - [为什么我的邀请码无法用于 CLI 注册？](8-cli-and-developer-distribution/why-code-cannot-be-used-for-cli-registration.md)
+    - [启用联盟分发后，我需要做什么？](8-cli-and-developer-distribution/what-to-do-after-enabling-affiliate-distribution.md)
+    - [联盟分发会影响原有的邀请方式吗？](8-cli-and-developer-distribution/whether-affiliate-distribution-affects-existing-invitation-methods.md)
+    - [怎样在 PikPak CLI 中使用邀请码？](8-cli-and-developer-distribution/how-to-use-invitation-code-in-pikpak-cli.md)
+    - [通过联盟分发邀请的用户购买会员后，收益如何计算？](8-cli-and-developer-distribution/how-earnings-are-calculated-for-affiliate-distribution-referrals.md)

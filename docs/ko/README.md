@@ -11,3 +11,5 @@ Referral Program Pro의 규칙, 추천 방법, 수익 정산, 출금 및 레벨 
 - [출금](5-withdrawals/README.md)
 - [레벨 및 혜택](6-levels-and-benefits/README.md)
 - [활용 팁](7-tips/README.md)
+
+- [CLI 및 개발자 배포](8-cli-and-developer-distribution/README.md)

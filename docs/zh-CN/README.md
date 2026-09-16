@@ -11,3 +11,5 @@
 - [5-withdrawals](5-withdrawals/README.md)
 - [6-levels-and-benefits](6-levels-and-benefits/README.md)
 - [7-tips](7-tips/README.md)
+
+- [CLI 和开发者分发](8-cli-and-developer-distribution/README.md)

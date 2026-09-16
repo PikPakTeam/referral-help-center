@@ -11,3 +11,5 @@ Help documentation for Referral Program Pro covering program rules, invitation m
 - [Withdrawals](5-withdrawals/README.md)
 - [Levels and Benefits](6-levels-and-benefits/README.md)
 - [Tips](7-tips/README.md)
+
+- [CLI and Developer Distribution](8-cli-and-developer-distribution/README.md)

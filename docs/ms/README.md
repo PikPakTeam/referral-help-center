@@ -11,3 +11,5 @@ Dokumentasi bantuan Referral Program Pro yang merangkumi peraturan program, cara
 - [Pengeluaran](5-withdrawals/README.md)
 - [Tahap dan Faedah](6-levels-and-benefits/README.md)
 - [Petua](7-tips/README.md)
+
+- [CLI dan Pengedaran Pembangun](8-cli-and-developer-distribution/README.md)
