@@ -4,10 +4,10 @@
 
 ## 导航
 
-- [1.计划概览](1.计划概览/README.md)
-- [2.邀请与分享](2.邀请与分享/README.md)
-- [3.数据与明细](3.数据与明细/README.md)
-- [4.收益与结算](4.收益与结算/README.md)
-- [5.提现](5.提现/README.md)
-- [6.等级与权益](6.等级与权益/README.md)
-- [7.使用技巧](7.使用技巧/README.md)
+- [1-program-overview](1-program-overview/README.md)
+- [2-invitations-and-sharing](2-invitations-and-sharing/README.md)
+- [3-data-and-details](3-data-and-details/README.md)
+- [4-earnings-and-settlement](4-earnings-and-settlement/README.md)
+- [5-withdrawals](5-withdrawals/README.md)
+- [6-levels-and-benefits](6-levels-and-benefits/README.md)
+- [7-tips](7-tips/README.md)
