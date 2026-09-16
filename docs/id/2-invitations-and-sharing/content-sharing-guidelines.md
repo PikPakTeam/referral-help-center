@@ -1,3 +1,3 @@
-# Apa yang harus saya ingat saat berbagi konten?
+# Apa yang perlu diperhatikan saat berbagi konten?
 
-Pastikan konten yang Anda bagikan mematuhi peraturan perundang-undangan yang berlaku, yaitu PikPak Perjanjian Pengguna, dan kebijakan terkait lainnya.
+Pastikan konten yang Anda bagikan mematuhi hukum dan peraturan yang berlaku, Perjanjian Pengguna PikPak, serta kebijakan terkait lainnya.

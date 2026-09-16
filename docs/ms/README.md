@@ -1,6 +1,6 @@
-# Referral Program Pro Pusat Bantuan
+# Pusat Bantuan Referral Program Pro
 
-Dokumentasi bantuan untuk Referral Program Pro meliputi peraturan program, kaedah jemputan, penyelesaian pendapatan, pengeluaran dan faedah tahap.
+Dokumentasi bantuan Referral Program Pro yang merangkumi peraturan program, cara menjemput, penyelesaian pendapatan, pengeluaran, serta faedah tahap.
 
 ## Navigasi
 

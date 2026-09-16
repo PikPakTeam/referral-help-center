@@ -1,5 +1,5 @@
-# Mengapa penghasilan saya dikunci?
+# Mengapa penghasilan saya terkunci?
 
-Penghasilan yang memenuhi syarat tunduk pada periode penguncian 30 hari untuk memberikan waktu pengembalian dana, peninjauan pesanan abnormal, dan pemeriksaan lain yang diperlukan.
+Penghasilan yang memenuhi syarat dikenakan periode penguncian 30 hari untuk memberi waktu bagi pengembalian dana, peninjauan pesanan tidak wajar, dan pemeriksaan lain yang diperlukan.
 
-Selama periode ini, jumlahnya muncul di bawah Penghasilan Tertunda. Setelah periode kunci berakhir dan catatan tetap memenuhi syarat, jumlah tersebut akan ditambahkan ke akun Anda Penghasilan yang Dapat Ditarik.
+Selama periode ini, jumlah tersebut muncul di Penghasilan Tertunda. Setelah periode penguncian berakhir dan catatan tetap memenuhi syarat, jumlah tersebut akan ditambahkan ke Penghasilan yang Dapat Ditarik.

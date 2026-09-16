@@ -1,14 +1,14 @@
 # Pengeluaran
 
-Semak ambang pengeluaran, kaedah, masa penyelesaian dan yuran.
+Semak jumlah minimum, kaedah, masa proses, dan yuran pengeluaran.
 
-## muka surat
+## Artikel
 
-- [Bagaimanakah cara saya meminta pengeluaran?](how-to-request-withdrawal.md)
+- [Bagaimanakah cara memohon pengeluaran?](how-to-request-withdrawal.md)
 - [Berapakah jumlah pengeluaran minimum?](minimum-withdrawal-amount.md)
-- [Berapa lama pengeluaran diambil?](how-long-withdrawal-takes.md)
-- [Kaedah pengeluaran mana yang disokong?](supported-withdrawal-methods.md)
-- [Bagaimanakah cara saya menukar kaedah pengeluaran, akaun pembayaran atau alamat dompet saya?](change-withdrawal-method-or-account.md)
-- [Adakah terdapat sebarang yuran pengeluaran?](withdrawal-fees.md)
-- [Adakah pendapatan saya akan luput jika saya tidak mengeluarkannya?](do-unwithdrawn-earnings-expire.md)
-- [Bagaimanakah mata wang ditukar untuk pengeluaran?](withdrawal-currency-conversion.md)
+- [Berapa lama proses pengeluaran?](how-long-withdrawal-takes.md)
+- [Kaedah pengeluaran manakah yang disokong?](supported-withdrawal-methods.md)
+- [Bagaimanakah cara menukar kaedah pengeluaran, akaun pembayaran atau alamat dompet?](change-withdrawal-method-or-account.md)
+- [Adakah yuran pengeluaran dikenakan?](withdrawal-fees.md)
+- [Adakah pendapatan akan luput jika tidak dikeluarkan?](do-unwithdrawn-earnings-expire.md)
+- [Bagaimanakah mata wang ditukar semasa pengeluaran?](withdrawal-currency-conversion.md)

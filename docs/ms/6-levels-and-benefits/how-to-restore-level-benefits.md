@@ -1,5 +1,5 @@
-# Bagaimanakah saya boleh memulihkan faedah tahap saya selepas Makluman Status Tahap?
+# Bagaimanakah cara memulihkan faedah tahap selepas Makluman Status Tahap?
 
-Anda boleh terus menjemput pengguna baharu yang tulen PikPak. Setelah sistem menentukan bahawa data rujukan anda telah kembali normal, ia akan menilai semula dan memulihkan faedah tahap yang berkenaan.
+Anda boleh terus menjemput pengguna baharu yang tulen ke PikPak. Setelah sistem menentukan bahawa data jemputan anda telah kembali normal, sistem akan menilai semula dan memulihkan faedah tahap yang berkenaan.
 
-Elakkan rujukan palsu, pendaftaran pendua dan aktiviti lain yang mungkin dikenal pasti sebagai luar biasa.
+Elakkan jemputan palsu, pendaftaran pendua dan aktiviti lain yang mungkin dikenal pasti sebagai tidak biasa.

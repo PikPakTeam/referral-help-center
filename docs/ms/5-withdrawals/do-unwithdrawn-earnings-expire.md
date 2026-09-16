@@ -1,3 +1,3 @@
-# Adakah pendapatan saya akan luput jika saya tidak mengeluarkannya?
+# Adakah pendapatan akan luput jika tidak dikeluarkan?
 
-Pendapatan yang tidak dikeluarkan kekal sah selama dua tahun dari tarikh ia diperoleh. Pendapatan yang tidak dikeluarkan dalam masa dua tahun mungkin tamat tempoh, jadi sila pantau anda Pendapatan Boleh Dikeluarkan dan rekod berkaitan.
+Pendapatan yang belum dikeluarkan kekal sah selama dua tahun dari tarikh diperoleh. Pendapatan yang tidak dikeluarkan dalam masa dua tahun mungkin luput, jadi sila pantau Pendapatan Boleh Dikeluarkan dan rekod berkaitan.

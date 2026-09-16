@@ -1,9 +1,9 @@
 # Data dan Butiran
 
-Semak rekod rujukan, butiran pendapatan dan pemasaan segar semula data.
+Semak rekod jemputan, butiran pendapatan, dan jadual kemas kini data.
 
-## muka surat
+## Artikel
 
-- [Di manakah saya boleh melihat butiran rujukan dan pendapatan?](where-to-view-referral-and-earnings-details.md)
-- [Berapa kerapkah data dikemas kini?](how-often-data-is-updated.md)
-- [Mengapa rujukan baru-baru ini tidak muncul serta-merta?](why-recent-referral-does-not-appear.md)
+- [Di manakah saya boleh melihat butiran jemputan dan pendapatan?](where-to-view-referral-and-earnings-details.md)
+- [Berapa kerap data dikemas kini?](how-often-data-is-updated.md)
+- [Mengapakah jemputan yang baru selesai tidak muncul dengan serta-merta?](why-recent-referral-does-not-appear.md)

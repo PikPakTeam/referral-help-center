@@ -1,3 +1,3 @@
-# Adakah terdapat sebarang yuran pengeluaran?
+# Adakah yuran pengeluaran dikenakan?
 
-Pengeluaran di sesetengah negara atau wilayah mungkin tertakluk kepada yuran transaksi pihak ketiga atau cukai yang dikenakan. Jumlah akhir adalah tertakluk kepada keputusan pengeluaran dan keperluan tempatan yang berkenaan.
+Pengeluaran di sesetengah negara atau wilayah mungkin dikenakan yuran transaksi pihak ketiga atau cukai yang berkenaan. Jumlah akhir tertakluk kepada hasil pengeluaran dan keperluan tempatan yang berkenaan.

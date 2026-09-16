@@ -1,3 +1,3 @@
 # Mengapakah pendapatan saya kadangkala negatif?
 
-Ini biasanya berlaku apabila pengguna yang dijemput meminta bayaran balik. Pendapatan daripada pembelian Premium yang berjaya direkodkan pada tarikh pembelian. Jika pengguna kemudiannya menerima bayaran balik, pendapatan yang sepadan akan ditolak pada tarikh bayaran balik, yang mungkin menyebabkan andaDaily Earningsuntuk kelihatan negatif.
+Ini biasanya berlaku apabila pengguna yang dijemput memohon bayaran balik. Pendapatan daripada pembelian Premium yang berjaya direkodkan pada tarikh pembelian. Jika pengguna kemudian menerima bayaran balik, pendapatan berkaitan ditolak pada tarikh bayaran balik, jadi Pendapatan Harian anda mungkin kelihatan negatif.

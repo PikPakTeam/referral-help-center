@@ -1,9 +1,9 @@
-# Apakah yang dikira sebagai rujukan yang sah?
+# Apakah yang dikira sebagai jemputan yang sah?
 
-Rujukan dianggap sah apabila keperluan berikut dipenuhi:
+Jemputan dianggap sah apabila syarat berikut dipenuhi:
 
-- Untuk rujukan melalui perkongsian fail, pengguna baharu mesti menyimpan fail yang anda kongsi dalam masa 12 jam selepas mendaftar. Pengguna yang menyimpan fail lebih daripada 12 jam selepas mendaftar tidak akan dianggap sebagai pengguna baharu yang sah.
-- Untuk rujukan melalui pautan khusus, pengguna baharu mesti memuat turun PikPak Aplikasi dan log masuk berjaya. hidup iOS, pengguna yang dijemput juga mesti memasukkanInvitation Codeselepas memuat turun Apl daripada App Store.
-- Untuk rujukan melalui anInvitation Code, pengguna baharu mesti memasukkan kod dalam masa 12 jam selepas mendaftar. Sistem juga mungkin mempertimbangkan peranti, akaun, rangkaian dan maklumat berkaitan risiko lain.
+- Untuk jemputan melalui perkongsian fail, pengguna baharu mesti menyimpan fail yang anda kongsi dalam masa 12 jam selepas mendaftar. Pengguna yang menyimpan fail lebih daripada 12 jam selepas mendaftar tidak akan dikira sebagai pengguna baharu yang sah.
+- Untuk jemputan melalui pautan khas, pengguna baharu mesti memuat turun Apl PikPak dan log masuk dengan jayanya. Di iOS, pengguna yang dijemput juga mesti memasukkan Kod Jemputan selepas memuat turun apl daripada App Store.
+- Untuk jemputan melalui Kod Jemputan, pengguna baharu mesti memasukkan kod itu dalam masa 12 jam selepas mendaftar. Sistem juga boleh mempertimbangkan peranti, akaun, rangkaian dan maklumat berkaitan risiko yang lain.
 
-Rujukan yang dikaitkan dengan peranti atau akaun pembayaran yang sama, julat IP yang tidak normal atau akaun pengeluaran yang sama yang dipautkan kepada penjemput hanya akan dikira sekali. Berdasarkan sistem kawalan risiko dan log audit keselamatannya, PikPak mempunyai budi bicara mutlak untuk mengenal pasti dan menapis aktiviti abnormal atau penipuan, termasuk penjanaan trafik buatan, pendaftaran palsu atau pukal, pembayaran penipuan dan rujukan sendiri.
+Jemputan yang dikaitkan dengan peranti atau akaun pembayaran yang sama, julat IP yang tidak normal, atau akaun pengeluaran yang sama dengan penganjur hanya akan dikira sekali. Berdasarkan sistem kawalan risiko dan log audit keselamatan, PikPak mempunyai budi bicara penuh untuk mengenal pasti dan menapis aktiviti tidak normal atau penipuan, termasuk trafik buatan, pendaftaran palsu atau pukal, pembayaran palsu dan jemputan sendiri.

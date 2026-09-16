@@ -1,5 +1,5 @@
-# Bilakah saya harus menggunakan a Kod Perkongsian?
+# Bilakah sesuai menggunakan Kod Perkongsian?
 
-Jika pautan perkongsian penuh sukar dihantar, atau platform tidak dapat memaparkan atau membuka pautan secara langsung, anda boleh membuat pautan yang lebih pendek Kod Perkongsian untuk kandungan anda dan hantarkan kod tersebut.
+Jika pautan kongsi penuh sukar dihantar, atau sesuatu platform tidak dapat memaparkan atau membuka pautan secara langsung, anda boleh mencipta Kod Perkongsian yang lebih pendek dan menghantar kod itu.
 
-Anda boleh meminta pengguna memuat turun dan membuka PikPak Apl, kemudian masukkan anda Kod Perkongsian melalui Carian, Tambah Pautan atau Kod Perkongsian entri pada halaman Utama untuk melihat atau menyimpan kandungan kongsi anda.
+Anda boleh meminta pengguna memuat turun dan membuka Apl PikPak, kemudian memasukkan Kod Perkongsian anda melalui Carian, Tambah Pautan atau entri Kod Perkongsian di halaman Utama untuk melihat atau menyimpan kandungan yang anda kongsi.

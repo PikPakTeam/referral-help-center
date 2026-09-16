@@ -1,5 +1,5 @@
-# Bagaimanakah cara saya menukar kaedah pengeluaran, akaun pembayaran atau alamat dompet saya?
+# Bagaimanakah cara menukar kaedah pengeluaran, akaun pembayaran atau alamat dompet?
 
-Pergi ke Tetapan > Kaedah Pembayaran masuk Referral Program Pro untuk menukar kaedah pengeluaran, akaun pembayaran atau alamat dompet anda.
+Pergi ke Tetapan > Kaedah Pembayaran dalam Referral Program Pro untuk menukar kaedah pengeluaran, akaun pembayaran atau alamat dompet.
 
-Untuk melindungi akaun anda, anda mungkin diminta untuk mengesahkan identiti anda menggunakan alamat e-mel atau nombor telefon yang ditetapkan pada akaun anda.
+Untuk melindungi akaun anda, anda mungkin diminta mengesahkan identiti menggunakan alamat e-mel atau nombor telefon yang ditetapkan pada akaun.

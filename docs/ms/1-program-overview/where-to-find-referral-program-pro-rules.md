@@ -1,3 +1,3 @@
-# Mana nak cari yang penuh Referral Program Pro peraturan?
+# Di manakah saya boleh melihat peraturan lengkap Referral Program Pro?
 
-Anda boleh melihat peraturan penuh pada Referral Program Pro muka surat. Untuk butiran tentang pengesahan rujukan, penyelesaian pendapatan, faedah tahap dan syarat lain, sila rujuk versi terkini peraturan.
+Anda boleh melihat peraturan lengkap di halaman Referral Program Pro. Untuk butiran pengesahan jemputan, penyelesaian pendapatan, faedah tahap dan terma lain, sila rujuk versi peraturan terkini.

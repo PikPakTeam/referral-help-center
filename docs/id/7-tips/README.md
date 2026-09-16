@@ -1,9 +1,9 @@
-# Kiat
+# Tips
 
-Tinjau tips berbagi praktis dan cara untuk meningkatkan peluang penghasilan.
+Tinjau kiat berbagi dan cara menambah peluang penghasilan.
 
-## Halaman
+## Artikel
 
 - [Bagaimana cara membuat Kode Berbagi?](how-to-create-share-code.md)
-- [Kapan saya harus menggunakan a Kode Berbagi?](when-to-use-share-code.md)
-- [Bagaimana saya bisa menggunakan Pembaruan Berbagi untuk menciptakan lebih banyak peluang penghasilan?](use-share-updates-to-increase-earning-opportunities.md)
+- [Kapan sebaiknya menggunakan Kode Berbagi?](when-to-use-share-code.md)
+- [Bagaimana menggunakan Pembaruan Berbagi untuk menambah peluang penghasilan?](use-share-updates-to-increase-earning-opportunities.md)

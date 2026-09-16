@@ -1,5 +1,5 @@
-# Bagaimana cara mengembalikan manfaat level saya setelah Peringatan Status Level?
+# Bagaimana cara memulihkan manfaat level setelah Peringatan Status Level?
 
-Anda dapat terus mengundang pengguna baru yang asli untuk melakukannya PikPak. Setelah sistem menentukan bahwa data rujukan Anda telah kembali normal, sistem akan menilai kembali dan memulihkan tingkat manfaat yang berlaku.
+Anda dapat terus mengundang pengguna baru yang asli ke PikPak. Setelah sistem menentukan bahwa data undangan Anda telah kembali normal, sistem akan menilai ulang dan memulihkan manfaat level yang berlaku.
 
-Hindari rujukan palsu, pendaftaran duplikat, dan aktivitas lain yang mungkin dianggap tidak biasa.
+Hindari undangan palsu, pendaftaran duplikat, dan aktivitas lain yang mungkin dianggap tidak wajar.

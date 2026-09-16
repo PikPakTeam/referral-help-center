@@ -1,7 +1,7 @@
-# Mengapa referral terbaru tidak langsung muncul?
+# Mengapa undangan yang baru selesai tidak langsung muncul?
 
-Data referral dan penghasilan harus diproses dan diverifikasi, sehingga tidak ditampilkan secara real time.
+Data undangan dan penghasilan harus diproses dan diverifikasi, sehingga tidak ditampilkan secara real time.
 
-Data untuk hari ini akan diperbarui pada pukul 14:00 Waktu Singapura (UTC+8) keesokan harinya.
+Data hari ini akan diperbarui paling lambat pukul 14.00 waktu Singapura (UTC+8) pada hari berikutnya.
 
-Jika catatan masih tidak ditampilkan setelah waktu itu, kirim email[support@mypikpak.com](mailto:support@mypikpak.com) dan sertakan milik Anda PikPak informasi akun.
+Jika catatan masih belum muncul setelah waktu tersebut, kirim email ke [support@mypikpak.com](mailto:support@mypikpak.com) dan sertakan informasi akun PikPak Anda.

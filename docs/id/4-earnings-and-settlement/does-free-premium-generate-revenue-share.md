@@ -1,3 +1,3 @@
-# Akankah Premium diperoleh secara gratis menghasilkan Bagi Hasil Premium?
+# Apakah Premium yang diperoleh secara gratis menghasilkan bagi hasil Premium?
 
-TIDAK. Premi diperoleh melalui gratisRedeem Code, waktu Premium yang dihadiahkan, atau metode gratis lainnya tidak dianggap sebagai pembelian Premium yang berhasil dan tidak akan dihasilkan Bagi Hasil Premium.
+Tidak. Premium yang diperoleh melalui Redeem Code gratis, hadiah waktu Premium, atau cara gratis lainnya tidak dianggap sebagai pembelian Premium yang berhasil dan tidak akan menghasilkan bagi hasil Premium.

@@ -1,8 +1,8 @@
 # Ikhtisar Program
 
-Pelajari aturan dasar yang harus Anda ketahui sebelum bergabung Referral Program Pro.
+Pelajari aturan dasar yang perlu Anda ketahui sebelum bergabung dengan Referral Program Pro.
 
-## Pertanyaan Umum
+## FAQ
 
-- [Bolehkah saya pergi Referral Program Pro setelah bergabung?](can-i-leave-referral-program-pro.md)
-- [Dimana saya dapat menemukan yang lengkap Referral Program Pro aturan?](where-to-find-referral-program-pro-rules.md)
+- [Bisakah saya keluar dari Referral Program Pro setelah bergabung?](can-i-leave-referral-program-pro.md)
+- [Di mana saya dapat melihat aturan lengkap Referral Program Pro?](where-to-find-referral-program-pro-rules.md)

@@ -1,3 +1,3 @@
 # Seberapa sering data diperbarui?
 
-Statistik diperbarui sekali sehari. Karena pemrosesan data memerlukan waktu, data rujukan dan penghasilan untuk hari ini akan tersedia pada pukul 14:00 Waktu Singapura (UTC+8) keesokan harinya.
+Statistik diperbarui sekali sehari. Karena pemrosesan data membutuhkan waktu, data undangan dan penghasilan hari ini akan tersedia paling lambat pukul 14.00 waktu Singapura (UTC+8) pada hari berikutnya.

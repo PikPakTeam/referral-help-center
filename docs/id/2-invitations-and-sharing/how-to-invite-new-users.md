@@ -1,5 +1,5 @@
 # Bagaimana cara mengundang pengguna baru?
 
-Anda dapat mengundang pengguna dengan membagikan tautan file, PikPak Tautan pemasangan aplikasi, tautan pembelian Premium, tautan situs web resmi, tautan halaman promosi Torrent, atau Aplikasi AndaInvitation Code.
+Anda dapat mengundang pengguna dengan membagikan tautan file, tautan instalasi Aplikasi PikPak, tautan pembelian Premium, tautan situs resmi, tautan halaman promosi Torrent, atau Kode Undangan Aplikasi Anda.
 
-Pengguna baru harus menyelesaikan tindakan yang diperlukan untuk metode undangan yang relevan, seperti mendaftar, menyimpan file, atau menginstal PikPak Aplikasi. Sistem kemudian akan menentukan apakah rujukan tersebut valid.
+Pengguna baru harus menyelesaikan tindakan yang diperlukan sesuai metode undangan, misalnya mendaftar, menyimpan file, atau menginstal Aplikasi PikPak. Sistem kemudian akan menentukan apakah undangan tersebut valid.

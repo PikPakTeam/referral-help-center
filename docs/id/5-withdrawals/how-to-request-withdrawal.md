@@ -1,3 +1,3 @@
-# Bagaimana cara saya meminta penarikan?
+# Bagaimana cara mengajukan penarikan?
 
-Sekali milikmu Penghasilan yang Dapat Ditarik mencapai jumlah minimum penarikan, Anda dapat memilih Metode Pembayaran yang tersedia di Referral Program Pro halaman dan kirimkan permintaan penarikan. Pastikan detail pembayaran Anda sudah benar sebelum mengirimkan.
+Setelah Penghasilan yang Dapat Ditarik mencapai jumlah penarikan minimum, Anda dapat memilih Metode Pembayaran yang tersedia di halaman Referral Program Pro dan mengajukan permintaan penarikan. Pastikan detail pembayaran Anda benar sebelum mengirimkan permintaan.

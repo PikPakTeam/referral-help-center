@@ -1,3 +1,3 @@
-# Kaedah pengeluaran mana yang disokong?
+# Kaedah pengeluaran manakah yang disokong?
 
-Anda kini boleh memilih daripada Kaedah Pembayaran yang dipaparkan pada halaman, seperti USDT atau PayPal.
+Pada masa ini anda boleh memilih daripada Kaedah Pembayaran yang dipaparkan di halaman, seperti USDT atau PayPal.

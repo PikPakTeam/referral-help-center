@@ -1,35 +1,35 @@
-# Bagaimana saya bisa menggunakan Pembaruan Berbagi untuk menciptakan lebih banyak peluang penghasilan?
+# Bagaimana menggunakan Pembaruan Berbagi untuk menambah peluang penghasilan?
 
-Pembaruan Berbagi memungkinkan Anda terus memperbarui konten yang dibagikan sebelumnya. Setelah diaktifkan, pengguna yang menyimpan dan mengikuti pembagian tersebut dapat melihat konten yang Anda tambahkan nanti, sehingga Anda tidak perlu mengirim ulang pembagian tersebut setiap kali Anda memperbaruinya.
+Pembaruan Berbagi memungkinkan Anda tetap memperbarui konten yang sudah dibagikan. Setelah diaktifkan, pengguna yang menyimpan dan mengikuti berbagi dapat melihat konten yang Anda tambahkan kemudian, sehingga Anda tidak perlu mengirim ulang berbagi setiap kali ada pembaruan.
 
-Terus membagikan konten yang menurut pengguna berguna dapat mendorong mereka untuk kembali berbagi dan menciptakan lebih banyak peluang bagi Anda untuk memperoleh penghasilan.
+Terus membagikan konten yang berguna bagi pengguna dapat mendorong mereka kembali ke berbagi Anda dan membuka lebih banyak peluang penghasilan.
 
 **Bagaimana cara mengaktifkan Pembaruan Berbagi?**
 
-Saat membuat pembagian:
+Saat membuat berbagi:
 
-1. Pilih file atau folder yang ingin Anda bagikan PikPak.
+1. Pilih file atau folder yang ingin dibagikan di PikPak.
 2. Ketuk Bagikan untuk membuka panel Bagikan.
 3. Izinkan melihat pembaruan dan mengikuti diaktifkan secara default di bagian bawah panel.
-4. Tetap aktifkan, pilih metode berbagi, dan selesaikan pembagian.
+4. Biarkan tetap aktif, pilih metode berbagi, lalu selesaikan berbagi.
 
-Untuk berbagi yang sudah ada, buka Berbagi Saya dan buka detail berbagi untuk melihat atau mengelola pengaturan ini.
+Untuk berbagi yang sudah ada, buka Berbagi Saya lalu buka detail berbagi untuk melihat atau mengelola pengaturan ini.
 
-**Bagaimana cara pengguna melihat konten baru?**
+**Bagaimana pengguna melihat konten baru?**
 
-Saat pengguna membuka dan menyimpan share Anda, mereka dapat memilih untuk mengikutinya.
+Saat pengguna membuka dan menyimpan berbagi Anda, mereka dapat memilih untuk mengikutinya.
 
-Setelah mengikuti pembagian, pengguna dapat melihat konten yang Anda tambahkan nanti Pembaruan Berbagi, perbarui pemberitahuan, atau halaman berbagi asli PikPak.
+Setelah mengikuti, pengguna dapat melihat konten yang Anda tambahkan kemudian melalui Pembaruan Berbagi, notifikasi pembaruan, atau halaman berbagi asli di PikPak.
 
-Pembaruan Berbagi saat ini hanya tersedia di PikPak Aplikasi Seluler. Anda dapat mengirimkan tautan berbagi atau Kode Berbagi dan minta mereka untuk menginstal PikPak Aplikasi untuk melihat pembaruan di masa mendatang.
+Pembaruan Berbagi saat ini hanya tersedia di Aplikasi Seluler PikPak. Anda dapat mengirim tautan berbagi atau Kode Berbagi dan meminta pengguna menginstal Aplikasi PikPak untuk melihat pembaruan berikutnya.
 
-**Bagaimana cara meningkatkan hasil berbagi saya?**
+**Bagaimana cara meningkatkan hasil berbagi?**
 
-Saat menggunakan Pembaruan Berbagi, simak tips berikut ini:
+Saat menggunakan Pembaruan Berbagi, pertimbangkan kiat berikut:
 
-- **Jaga agar pembaruan tetap fokus pada topik yang sama:**Tambahkan konten yang terkait dengan topik yang disukai pengguna Anda sehingga mereka dapat dengan cepat memahami nilai dari setiap pembaruan.
-- **Perbarui share asli bila memungkinkan:**Jika konten baru terkait dengan topik yang sama, terus perbarui konten asli alih-alih membuat beberapa konten serupa. Pengguna yang mengikuti share asli tidak akan secara otomatis mengikuti share yang baru dibuat.
-- **Jaga struktur file Anda tetap jelas:**Gunakan nama folder dan file yang dapat dikenali sehingga pengguna dapat dengan cepat menemukan konten baru.
-- **Dorong pengguna untuk menyimpan dan mengikuti pembagian:**Pengguna yang menyimpan dan mengikuti pembagian dapat lebih mudah melihat konten yang Anda tambahkan nanti.
-- **Menyimpan Pembaruan Berbagi diaktifkan:**Jika Anda menonaktifkan Izinkan melihat pembaruan dan mengikuti, pengguna tidak dapat lagi menggunakan fitur ini untuk melihat pembaruan di masa mendatang.
-- **Hindari sering mengubah kata sandi berbagi:**Setelah Anda mengubah kata sandi berbagi, pengguna mungkin perlu memasukkan kata sandi baru sebelum mereka dapat melihat berbagi dan pembaruannya. Jika Anda perlu mengubahnya, pastikan untuk mengirimkan kata sandi baru kepada pengguna.
+- **Fokuskan pembaruan pada topik yang sama:** Tambahkan konten yang terkait dengan topik yang diminati pengguna agar mereka cepat memahami nilai setiap pembaruan.
+- **Perbarui berbagi asli jika memungkinkan:** Jika konten baru masih dalam topik yang sama, lanjutkan memperbarui berbagi asli, bukan membuat banyak berbagi serupa. Pengguna yang mengikuti berbagi asli tidak akan otomatis mengikuti berbagi yang baru dibuat.
+- **Jaga struktur file tetap jelas:** Gunakan nama folder dan file yang mudah dikenali agar pengguna cepat menemukan konten baru.
+- **Dorong pengguna untuk menyimpan dan mengikuti berbagi:** Pengguna yang menyimpan dan mengikuti berbagi lebih mudah melihat konten yang Anda tambahkan kemudian.
+- **Biarkan Pembaruan Berbagi tetap aktif:** Jika Anda mematikan Izinkan melihat pembaruan dan mengikuti, pengguna tidak lagi dapat menggunakan fitur ini untuk melihat pembaruan berikutnya.
+- **Hindari sering mengganti kata sandi berbagi:** Setelah kata sandi diubah, pengguna mungkin perlu memasukkan kata sandi baru sebelum dapat melihat berbagi dan pembaruannya. Jika perlu mengubahnya, pastikan Anda mengirimkan kata sandi baru kepada pengguna.

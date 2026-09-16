@@ -1,3 +1,3 @@
-# Boleh saya pergi Referral Program Pro selepas menyertai?
+# Bolehkah saya keluar daripada Referral Program Pro selepas menyertai?
 
-Pada masa ini, anda tidak boleh pergi Referral Program Pro selepas menyertai.
+Pada masa ini, anda tidak boleh keluar daripada Referral Program Pro selepas menyertai.

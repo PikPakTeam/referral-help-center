@@ -1,3 +1,3 @@
-# Di mana saya dapat melihat rincian rujukan dan penghasilan?
+# Di mana saya dapat melihat rincian undangan dan penghasilan?
 
-Anda dapat melihat data detail untuk setiap metode rujukan di bawah[Earning Breakdown](https://mypikpak.com/referral/income).
+Anda dapat melihat data terperinci untuk setiap metode undangan di [Rincian Penghasilan](https://mypikpak.com/referral/income).

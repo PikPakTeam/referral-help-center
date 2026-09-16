@@ -1,12 +1,12 @@
-# المستويات والفوائد
+# المستويات والمزايا
 
-قم بمراجعة تعريفات المستوى وتواريخ السريان وتغييرات المزايا.
+راجع تعريف المستويات، ووقت السريان، وتغيّر المزايا.
 
-## التعليمات
+## الأسئلة الشائعة
 
-- [ما هي Referral Program Pro المستويات؟](referral-program-pro-levels.md)
-- [متى تصبح فوائد المستوى سارية المفعول؟](when-level-benefits-take-effect.md)
-- [كيف تختلف فوائد التخزين الزائد حسب المستوى؟](over-quota-storage-benefits-by-level.md)
-- [ماذا يحدث لحالة سعة التخزين الزائدة عندما يتغير مستواي؟](over-quota-status-after-level-change.md)
+- [ما مستويات برنامج الإحالات Pro؟](referral-program-pro-levels.md)
+- [متى تسري مزايا المستوى؟](when-level-benefits-take-effect.md)
+- [كيف تختلف مزايا التخزين الزائد حسب المستوى؟](over-quota-storage-benefits-by-level.md)
+- [ماذا يحدث لحالة التخزين الزائد عند تغيّر المستوى؟](over-quota-status-after-level-change.md)
 - [لماذا أرى تنبيه حالة المستوى؟](why-level-status-alert-appears.md)
-- [كيف يمكنني استعادة مزايا المستوى الخاص بي بعد تنبيه حالة المستوى؟](how-to-restore-level-benefits.md)
+- [كيف أستعيد مزايا المستوى بعد تنبيه حالة المستوى؟](how-to-restore-level-benefits.md)

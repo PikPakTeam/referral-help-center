@@ -1,9 +1,9 @@
 # Petua
 
-Semak petua perkongsian praktikal dan cara untuk meningkatkan peluang pendapatan.
+Semak petua perkongsian dan cara menambah peluang pendapatan.
 
-## muka surat
+## Artikel
 
-- [Bagaimana saya membuat a Kod Perkongsian?](how-to-create-share-code.md)
-- [Bilakah saya harus menggunakan a Kod Perkongsian?](when-to-use-share-code.md)
-- [Bagaimana saya boleh menggunakan Kemas Kini Perkongsian untuk mencipta lebih banyak peluang pendapatan?](use-share-updates-to-increase-earning-opportunities.md)
+- [Bagaimanakah cara mencipta Kod Perkongsian?](how-to-create-share-code.md)
+- [Bilakah sesuai menggunakan Kod Perkongsian?](when-to-use-share-code.md)
+- [Bagaimanakah cara menggunakan Kemas Kini Perkongsian untuk menambah peluang pendapatan?](use-share-updates-to-increase-earning-opportunities.md)

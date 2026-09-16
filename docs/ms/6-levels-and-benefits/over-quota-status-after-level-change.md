@@ -1,5 +1,5 @@
-# Apakah yang berlaku kepada status storan lebih kuota saya apabila tahap saya berubah?
+# Apakah yang berlaku kepada status storan melebihi kuota apabila tahap berubah?
 
-Apabila tahap anda berubah, sistem menilai semula status storan lebih kuota anda menggunakan peraturan untuk tahap baharu anda.
+Apabila tahap anda berubah, sistem menilai semula status storan melebihi kuota menggunakan peraturan tahap baharu.
 
-Tempoh lebih kuota terkumpul tidak ditetapkan semula. Jika tahap anda meningkat, anda menerima faedah untuk tahap baharu. Jika tahap anda menurun, baki tempoh tangguh akan dikira semula berdasarkan tempoh lebih kuota terkumpul. Jika anda telah mencapai ambang yang berkenaan, anda boleh memasuki tempoh tangguh atau peringkat pemprosesan seterusnya dengan serta-merta.
+Tempoh melebihi kuota yang terkumpul tidak ditetapkan semula. Jika tahap meningkat, anda menerima faedah tahap baharu. Jika tahap menurun, baki tempoh tangguh dikira semula berdasarkan tempoh melebihi kuota yang terkumpul. Jika anda sudah mencapai ambang yang berkenaan, anda mungkin terus memasuki tempoh tangguh atau peringkat pemprosesan berikutnya.

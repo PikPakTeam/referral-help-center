@@ -1,3 +1,3 @@
-# Berapa kerapkah data dikemas kini?
+# Berapa kerap data dikemas kini?
 
-Statistik dikemas kini sekali sehari. Oleh kerana pemprosesan data mengambil masa, data rujukan dan pendapatan untuk hari semasa akan tersedia selewat-lewatnya pada 2:00 PM Waktu Singapura (UTC+8) pada hari berikutnya.
+Statistik dikemas kini sekali sehari. Memandangkan pemprosesan data mengambil masa, data jemputan dan pendapatan hari ini akan tersedia pada atau sebelum 2:00 petang Waktu Singapura (UTC+8) pada hari berikutnya.

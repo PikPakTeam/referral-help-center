@@ -1,5 +1,5 @@
-# Bolehkah saya menghantar pakej pemasangan Apl terus kepada pengguna baharu?
+# Bolehkah saya menghantar pakej pemasangan apl terus kepada pengguna baharu?
 
-ya.
+Ya.
 
-Selain berkongsi pautan khusus anda, anda boleh menggunakan pautan untuk memuat turun pakej pemasangan dan menghantarnya terus kepada pengguna baharu. Selepas pengguna memasang PikPak Aplikasi dan log masuk berjaya, sistem akan menentukan sama ada rujukan itu sah mengikut peraturan program.
+Selain berkongsi pautan khas anda, anda boleh menggunakan pautan itu untuk memuat turun pakej pemasangan dan menghantarnya terus kepada pengguna baharu. Selepas pengguna memasang Apl PikPak dan log masuk dengan jayanya, sistem akan menentukan sama ada jemputan sah mengikut peraturan program.

@@ -1,5 +1,5 @@
-# Apa yang Referral Program Pro tingkat?
+# Apa itu level Referral Program Pro?
 
-Referral Program Pro tingkat memberikan manfaat penyimpanan yang sesuai, Transfer Quotamanfaat, dan aturan pengelolaan kelebihan kuota.
+Level Referral Program Pro memberikan manfaat penyimpanan, manfaat Kuota Transfer, dan aturan pengelolaan kelebihan kuota yang sesuai.
 
-Sistem memeriksa perubahan level setiap hari dan secara otomatis menerapkan manfaat untuk level Anda saat ini sesuai dengan aturan program.
+Sistem memeriksa perubahan level setiap hari dan secara otomatis menerapkan manfaat untuk level Anda saat ini sesuai aturan program.

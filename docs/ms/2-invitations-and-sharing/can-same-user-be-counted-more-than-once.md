@@ -1,5 +1,5 @@
 # Bolehkah pengguna yang sama dikira lebih daripada sekali?
 
-Tidak. Seorang pengguna secara amnya boleh dikira sebagai pengguna baharu yang sah untuk hanya seorang jemputan.
+Tidak. Secara amnya, seorang pengguna hanya boleh dikira sebagai pengguna baharu yang sah untuk seorang penganjur.
 
-Sistem boleh menggunakan peranti, akaun dan maklumat lain yang berkaitan untuk mengenal pasti rekod pendua.
+Sistem boleh menggunakan peranti, akaun dan maklumat berkaitan yang lain untuk mengenal pasti rekod pendua.

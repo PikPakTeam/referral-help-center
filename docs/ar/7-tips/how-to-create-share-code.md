@@ -1,3 +1,3 @@
-# كيف أقوم بإنشاء رمز المشاركة?
+# كيف أنشئ رمز مشاركة؟
 
-يمكنك إنشاء رمز المشاركة استخدام PikPak ميزة المشاركة. للحصول على تعليمات خطوة بخطوة، راجع[كيف أقوم بإنشاء رمز المشاركة?](https://mypikpak.com/en-US/help-center/share/share_code/how_to_create).
+يمكنك إنشاء رمز مشاركة عبر ميزة المشاركة في PikPak. للاطلاع على الخطوات، راجع [كيف أنشئ رمز مشاركة؟](https://mypikpak.com/en-US/help-center/share/share_code/how_to_create).

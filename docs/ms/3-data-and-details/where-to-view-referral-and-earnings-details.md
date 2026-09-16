@@ -1,3 +1,3 @@
-# Di manakah saya boleh melihat butiran rujukan dan pendapatan?
+# Di manakah saya boleh melihat butiran jemputan dan pendapatan?
 
-Anda boleh melihat data terperinci untuk setiap kaedah rujukan di bawah[Earning Breakdown](https://mypikpak.com/referral/income).
+Anda boleh melihat data terperinci untuk setiap kaedah jemputan di [Butiran Pendapatan](https://mypikpak.com/referral/income).
