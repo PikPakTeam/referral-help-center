@@ -1,0 +1,9 @@
+# 使用技巧
+
+查看适合日常使用的分享与收益提升技巧。
+
+## 页面
+
+- [如何创建分享代码？](how-to-create-share-code.md)
+- [什么时候适合使用分享代码？](when-to-use-share-code.md)
+- [如何使用「分享更新」增加收益机会？](use-share-updates-to-increase-earning-opportunities.md)
