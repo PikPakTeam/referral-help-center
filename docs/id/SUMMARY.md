@@ -51,4 +51,4 @@
     - [Apa yang harus saya lakukan setelah mengaktifkan Distribusi Afiliasi?](8-cli-and-developer-distribution/what-to-do-after-enabling-affiliate-distribution.md)
     - [Apakah Distribusi Afiliasi memengaruhi metode undangan saya yang sudah ada?](8-cli-and-developer-distribution/whether-affiliate-distribution-affects-existing-invitation-methods.md)
     - [Bagaimana cara menggunakan kode saya di PikPak CLI?](8-cli-and-developer-distribution/how-to-use-invitation-code-in-pikpak-cli.md)
-    - [Bagaimana penghasilan dihitung ketika pengguna yang diundang melalui Distribusi Afiliasi membeli Premium?](8-cli-and-developer-distribution/how-earnings-are-calculated-for-affiliate-distribution-referrals.md)
+    - [Bagaimana penghasilan dihitung ketika pengguna yang diundang melalui Distribusi Afiliasi membeli Pre](8-cli-and-developer-distribution/how-earnings-are-calculated-for-affiliate-distribution-referrals.md)
